@@ -214,7 +214,7 @@ const MyRoom = forwardRef<
 
       let rafId = 0;
       let lastDraw = 0;
-      const targetFrameMs = 1000 / 10; // 10 FPS is enough for subtle room effects
+      const targetFrameMs = 1000 / 24; // 24 FPS is enough for subtle room effects
 
       // loops forever to 
       const tick = (now: number) => {

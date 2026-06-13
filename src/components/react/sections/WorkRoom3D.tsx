@@ -22,6 +22,8 @@ import {
 import SceneVisibilityTracker, {
   type SceneVisibility,
 } from "@/components/3D/helpers/SceneVisibilityTracker";
+import { isLowGpuTier, useGPUTier } from "@/components/3D/helpers/useGPUTier";
+import LowGpuNoticeModal from "@/components/react/sections/LowGpuNoticeModal";
 
 // import { CameraToObjectRay } from "@/components/3D/helpers/CameraToObjectRay";
 // import { ObjectCenterMarker } from "@/components/3D/helpers/ObjectCenterMarker";
@@ -41,14 +43,17 @@ const WorkRoom3D = () => {
   const [cupInView, setCupInView] = useState(true);
   const [wallDecorInView, setWallDecorInView] = useState(false);
   const { isDark, toggleDarkMode } = useDarkMode();
+  const gpuTier = useGPUTier();
+  const lowGpuTier = isLowGpuTier(gpuTier);
 
   const handleVisibilityChange = useCallback((visibility: SceneVisibility) => {
     setCupInView(visibility.cupInView);
     setWallDecorInView(visibility.wallDecorInView);
   }, []);
 
-  const steamActive =
+  const steamVisible =
     isSectionVisible && !isMobile && !prefersReducedMotion && cupInView;
+  const steamAnimating = steamVisible && !lowGpuTier;
 
   const defaultCameraFov = isMobile ? 70 : 60;
 
@@ -71,6 +76,12 @@ const WorkRoom3D = () => {
   const [resetCameraLabel, setResetCameraLabel] = useState(
     t("workroom3D-resetCamera")
   );
+  const [castShadowsLabel, setCastShadowsLabel] = useState(
+    t("workroom3D-castShadows")
+  );
+  const [showGpuNotice, setShowGpuNotice] = useState(false);
+  const gpuNoticeHandledRef = useRef(false);
+  const showLightHelpersRef = useRef(false);
   
   useEffect(() => {
     const mobileMq = window.matchMedia("(max-width: 767px)");
@@ -111,6 +122,7 @@ const WorkRoom3D = () => {
     setZoomLabel(t("workroom3D-zoom"));
     setHelpersLabel(t("workroom3D-helpers"));
     setResetCameraLabel(t("workroom3D-resetCamera"));
+    setCastShadowsLabel(t("workroom3D-castShadows"));
   }, [t]);
 
   // 🛠️ Panel toggle
@@ -139,21 +151,44 @@ const WorkRoom3D = () => {
     }
   }, [defaultCameraFov, zoomLabel]);
 
-  const { showLightHelpers } = useControls(
+  const handleToggleDarkMode = useCallback(() => {
+    if (showLightHelpersRef.current) {
+      levaStore.set({ [`${helpersLabel}.showLightHelpers`]: false }, true);
+    }
+    toggleDarkMode();
+  }, [helpersLabel, toggleDarkMode]);
+
+  const { showLightHelpers, castShadows } = useControls(
     helpersLabel,
     {
       [viewLaptopLabel]: button(() => setAnimateCamera(true)),
       [resetCameraLabel]: button(resetCamera),
-      [toggleDarkModeLabel]: button(() => toggleDarkMode()),
+      [toggleDarkModeLabel]: button(handleToggleDarkMode),
       showLightHelpers: {
         value: false,
         label: lightHelperLabel,
+      },
+      castShadows: {
+        value: true,
+        label: castShadowsLabel,
       },
     },
     {
       collapsed: isMobile,
     }
-  ) as { showLightHelpers: boolean };
+  ) as { showLightHelpers: boolean; castShadows: boolean };
+
+  useEffect(() => {
+    showLightHelpersRef.current = showLightHelpers;
+  }, [showLightHelpers]);
+
+  useEffect(() => {
+    if (!lowGpuTier || gpuNoticeHandledRef.current) return;
+
+    gpuNoticeHandledRef.current = true;
+    levaStore.set({ [`${helpersLabel}.castShadows`]: false }, true);
+    setShowGpuNotice(true);
+  }, [lowGpuTier, helpersLabel]);
 
   useEffect(() => {
     if (cameraRef.current) {
@@ -180,6 +215,11 @@ const WorkRoom3D = () => {
         <Leva titleBar={true} fill />
       </div>
 
+      <LowGpuNoticeModal
+        open={showGpuNotice}
+        onClose={() => setShowGpuNotice(false)}
+      />
+
       {/* Canvas  */}
       <div
         ref={canvasContainerRef}
@@ -187,7 +227,7 @@ const WorkRoom3D = () => {
       >
         <Canvas
           frameloop="demand"
-          shadows
+          shadows={castShadows}
           camera={{
             position: [3.5 * scaleLevel, 2.9 * scaleLevel, 3.0 * scaleLevel],
             fov: zoom,
@@ -204,10 +244,13 @@ const WorkRoom3D = () => {
               zoom,
               showLightHelpers,
               isSectionVisible,
-              steamActive,
+              steamVisible,
+              steamAnimating,
               cupInView,
               wallDecorInView,
               isDark,
+              lowGpuTier,
+              castShadows,
             ]}
           />
           <SceneVisibilityTracker
@@ -218,7 +261,10 @@ const WorkRoom3D = () => {
 
           {/* Lighting */}
           <ambientLight intensity={1.1} color={0xffffff} />
-          <LightHelper showHelpers={showLightHelpers} />
+          <LightHelper
+            showHelpers={showLightHelpers}
+            castShadows={castShadows}
+          />
 
           {/* Main scene */}
           <Suspense fallback={<CanvasLoader />}>
@@ -246,7 +292,7 @@ const WorkRoom3D = () => {
                   setCamera={setAnimateCamera}
                   isCameraAnimating={animateCamera}
                   finishedCameraAnimating={finishedCameraAnimating}
-                  sceneEffectsActive={steamActive}
+                  sceneEffectsActive={steamVisible}
                   showWallHtml={wallDecorInView}
                 />
               </group>
@@ -263,9 +309,9 @@ const WorkRoom3D = () => {
           />
 
           {/* Cup's steam — desktop only, when section is visible */}
-          {steamActive && (
+          {steamVisible && (
             <SteamRibbon
-              active
+              active={steamAnimating}
               position={[
                 0.02 * scaleLevel,
                 -0.65 * scaleLevel,

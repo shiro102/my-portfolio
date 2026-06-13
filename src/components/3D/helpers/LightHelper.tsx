@@ -4,7 +4,13 @@ import { useThree } from "@react-three/fiber";
 import * as THREE from "three";
 import { useDarkMode } from "@/components/react/context/DarkModeContext";
 
-const LightHelper = ({ showHelpers = false }: { showHelpers?: boolean }) => {
+const LightHelper = ({
+  showHelpers = false,
+  castShadows = true,
+}: {
+  showHelpers?: boolean;
+  castShadows?: boolean;
+}) => {
   const lightRef = useRef<THREE.DirectionalLight>(null!);
   const anotherLightRef = useRef<THREE.DirectionalLight>(null!);
   const bounceLightRef = useRef<THREE.DirectionalLight>(null!);
@@ -55,7 +61,7 @@ const LightHelper = ({ showHelpers = false }: { showHelpers?: boolean }) => {
       {!isDark && (
         <directionalLight
           ref={lightRef}
-          castShadow
+          castShadow={castShadows}
           position={[-3 * scaleLevel, 1.5 * scaleLevel, -0.8 * scaleLevel]}
           intensity={6}
           color={0xffffcc}
@@ -80,7 +86,7 @@ const LightHelper = ({ showHelpers = false }: { showHelpers?: boolean }) => {
 
       <directionalLight
         ref={anotherLightRef}
-        castShadow
+        castShadow={castShadows}
         position={[0, 10, 5]} // light above and in front
         intensity={isDark ? 2.0 : 0.6}
         color={isDark ? 0xffffff : 0xffffcc}

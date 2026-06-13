@@ -20,7 +20,7 @@ const VERIFY_URLS = {
 /** Display face size in mesh local units (WallPictureBrown / Cube037_1). */
 const PLANE_WIDTH = 0.885;
 const PLANE_HEIGHT = 0.87;
-const PLANE_GAP = 0.04;
+const PLANE_GAP = 0.02;
 
 type WallCertificatesProps = {
   visible?: boolean;

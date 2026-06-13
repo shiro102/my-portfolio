@@ -20,6 +20,7 @@
     "@vercel/speed-insights": "^1.2.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "detect-gpu": "^5.0.70",
     "framer-motion": "^12.6.3",
     "gsap": "^3.12.7",
     "i18next": "^25.0.1",
@@ -48,6 +49,7 @@
     "eslint": "^9",
     "eslint-config-next": "15.2.4",
     "i18nexus-cli": "^3.5.0",
+    "svg-path-bbox": "^2.1.0",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
