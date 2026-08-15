@@ -134,493 +134,576 @@
       "peakDeg": 360,
       "direction": 1,
       "duration": 6,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog49": {
       "peakDeg": 360,
       "direction": -1,
       "duration": 6,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog48": {
       "peakDeg": 45,
       "direction": -1,
       "duration": 2.5,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog47": {
       "peakDeg": 45,
       "direction": 1,
       "duration": 2.5,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog46": {
       "peakDeg": 90,
       "direction": 1,
       "duration": 3,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog45": {
       "peakDeg": 90,
       "direction": 1,
       "duration": 3,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog44": {
       "peakDeg": 180,
       "direction": -1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog43": {
       "peakDeg": 360,
       "direction": -1,
       "duration": 6,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog42": {
       "peakDeg": 360,
       "direction": -1,
       "duration": 6,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog41": {
       "peakDeg": 90,
       "direction": 1,
       "duration": 3,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog40": {
       "peakDeg": 180,
       "direction": -1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog39": {
       "peakDeg": 180,
       "direction": 1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog38": {
       "peakDeg": 180,
       "direction": -1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog37": {
       "peakDeg": 360,
       "direction": 1,
       "duration": 6,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog36": {
       "peakDeg": 360,
       "direction": 1,
       "duration": 6,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog35": {
       "peakDeg": 180,
       "direction": 1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog34": {
       "peakDeg": 45,
       "direction": -1,
       "duration": 2.5,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog33": {
       "peakDeg": 45,
       "direction": 1,
       "duration": 2.5,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog32": {
       "peakDeg": 180,
       "direction": 1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog31": {
       "peakDeg": 360,
       "direction": -1,
       "duration": 6,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog30": {
       "peakDeg": 180,
       "direction": 1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog29": {
       "peakDeg": 180,
       "direction": 1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog28": {
       "peakDeg": 180,
       "direction": 1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog27": {
       "peakDeg": 90,
       "direction": -1,
       "duration": 3,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog27-group-3": {
       "peakDeg": 360,
       "direction": -1,
       "duration": 6,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog27-rotates-backward1": {
       "peakDeg": 360,
       "direction": -1,
       "duration": 6,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog26": {
       "peakDeg": 45,
       "direction": 1,
       "duration": 2.5,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog25": {
       "peakDeg": 180,
       "direction": -1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog24": {
       "peakDeg": 360,
       "direction": -1,
       "duration": 6,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog23": {
       "peakDeg": 360,
       "direction": -1,
       "duration": 6,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog22": {
       "peakDeg": 90,
       "direction": -1,
       "duration": 3,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog21": {
       "peakDeg": 90,
       "direction": 1,
       "duration": 3,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog20": {
       "peakDeg": 360,
       "direction": -1,
       "duration": 6,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog19": {
       "peakDeg": 360,
       "direction": -1,
       "duration": 6,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog18": {
       "peakDeg": 180,
       "direction": 1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog17": {
       "peakDeg": 180,
       "direction": -1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog16": {
       "peakDeg": 180,
       "direction": 1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog15": {
       "peakDeg": 180,
       "direction": 1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog14": {
       "peakDeg": 180,
       "direction": 1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog13": {
       "peakDeg": 45,
       "direction": 1,
       "duration": 2.5,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog12": {
       "peakDeg": 45,
       "direction": -1,
       "duration": 2.5,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog11": {
       "peakDeg": 180,
       "direction": 1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog10": {
       "peakDeg": 360,
       "direction": -1,
       "duration": 6,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog9": {
       "peakDeg": 180,
       "direction": -1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-connector1-group-3": {
       "peakDeg": 90,
       "direction": -1,
       "duration": 3,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-connector1": {
       "peakDeg": 180,
       "direction": 1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-connector1-group-4": {
       "peakDeg": 45,
       "direction": 1,
       "duration": 2.5,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-connector1-group-2": {
       "peakDeg": 180,
       "direction": -1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-connector1-rotates-forward1": {
       "peakDeg": 360,
       "direction": 1,
       "duration": 6,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog7": {
       "peakDeg": 90,
       "direction": -1,
       "duration": 3,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog6": {
       "peakDeg": 180,
       "direction": -1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog5": {
       "peakDeg": 180,
       "direction": -1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog4": {
       "peakDeg": 360,
       "direction": -1,
       "duration": 6,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog3": {
       "peakDeg": 90,
       "direction": 1,
       "duration": 3,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog2": {
       "peakDeg": 180,
       "direction": -1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "rs-cog1": {
       "peakDeg": 180,
       "direction": 1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "ls-cog26": {
       "peakDeg": 90,
       "direction": -1,
       "duration": 3,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "ls-cog25": {
       "peakDeg": 180,
       "direction": 1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "ls-cog24": {
       "peakDeg": 360,
       "direction": -1,
       "duration": 6,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "ls-cog23": {
       "peakDeg": 45,
       "direction": -1,
       "duration": 2.5,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "ls-cog22": {
       "peakDeg": 180,
       "direction": 1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "ls-cog21": {
       "peakDeg": 45,
       "direction": 1,
       "duration": 2.5,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "ls-cog20": {
       "peakDeg": 180,
       "direction": -1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "ls-cog19": {
       "peakDeg": 90,
       "direction": 1,
       "duration": 3,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "ls-cog18": {
       "peakDeg": 45,
       "direction": 1,
       "duration": 2.5,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "ls-cog17": {
       "peakDeg": 360,
       "direction": -1,
       "duration": 6,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "ls-cog16": {
       "peakDeg": 90,
       "direction": 1,
       "duration": 3,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "ls-cog15": {
       "peakDeg": 90,
       "direction": -1,
       "duration": 3,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "ls-cog14": {
       "peakDeg": 180,
       "direction": -1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "ls-cog13": {
       "peakDeg": 180,
       "direction": -1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "ls-cog12": {
       "peakDeg": 180,
       "direction": -1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "ls-cog11": {
       "peakDeg": 180,
       "direction": -1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "ls-cog10": {
       "peakDeg": 45,
       "direction": 1,
       "duration": 2.5,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "ls-cog9": {
       "peakDeg": 45,
       "direction": 1,
       "duration": 2.5,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "ls-cog8": {
       "peakDeg": 90,
       "direction": 1,
       "duration": 3,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "ls-cog7": {
       "peakDeg": 90,
       "direction": 1,
       "duration": 3,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "ls-cog6": {
       "peakDeg": 45,
       "direction": 1,
       "duration": 2.5,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "ls-cog5": {
       "peakDeg": 90,
       "direction": -1,
       "duration": 3,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "ls-cog4": {
       "peakDeg": 90,
       "direction": -1,
       "duration": 3,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "ls-cog3": {
       "peakDeg": 360,
       "direction": 1,
       "duration": 6,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "ls-cog2": {
       "peakDeg": 180,
       "direction": 1,
       "duration": 4,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     },
     "ls-cog1": {
       "peakDeg": 45,
       "direction": 1,
       "duration": 2.5,
-      "mode": "spin-center"
+      "mode": "spin-center",
+      "continuous": true
     }
-  }
+  },
+  "motionDriver": "scroll"
 }

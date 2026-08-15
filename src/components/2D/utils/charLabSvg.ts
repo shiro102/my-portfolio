@@ -139,7 +139,10 @@ export const BUILTIN_SVGS: BuiltinSvg[] = [
       splits: (defaultLabSession.splits ?? {}) as Record<string, PathSplit>,
       pivots: (defaultLabSession.pivots ?? {}) as ArmPivotConfig,
       motion: defaultLabSession.motion as Record<string, GroupMotionConfig>,
-      motionDriver: "scroll",
+      motionDriver: parseMotionDriver(
+        (defaultLabSession as { motionDriver?: unknown }).motionDriver,
+        "time"
+      ),
     },
   },
   {
@@ -152,7 +155,10 @@ export const BUILTIN_SVGS: BuiltinSvg[] = [
       splits: {},
       pivots: {},
       motion: brainLabSession.motion as Record<string, GroupMotionConfig>,
-      motionDriver: "time",
+      motionDriver: parseMotionDriver(
+        (brainLabSession as { motionDriver?: unknown }).motionDriver,
+        "scroll"
+      ),
     },
   },
 ];
@@ -425,7 +431,11 @@ function migrateSessionMotion(
         svgId === BRAIN_SVG_ID && value.mode === "spin"
           ? "spin-center"
           : value.mode;
-      next[key] = mode === value.mode ? value : { ...value, mode };
+      const entry = mode === value.mode ? { ...value } : { ...value, mode };
+      if (entry.continuous == null && (mode === "spin" || mode === "spin-center")) {
+        entry.continuous = svgId === BRAIN_SVG_ID;
+      }
+      next[key] = entry;
     }
   }
   if (next.hair && !next["hair-back"]) {
@@ -448,7 +458,10 @@ function defaultSessionForSvg(svgId: string): LabSession {
         structuredClone(builtin.session.motion) as Record<string, GroupMotionConfig>,
         svgId
       ),
-      motionDriver: parseMotionDriver(builtin.session.motionDriver, "scroll"),
+      motionDriver: parseMotionDriver(
+        builtin.session.motionDriver,
+        svgId === DEFAULT_SVG_ID ? "time" : "scroll"
+      ),
     };
   }
 
@@ -458,7 +471,7 @@ function defaultSessionForSvg(svgId: string): LabSession {
     splits: {},
     pivots: {},
     motion: {},
-    motionDriver: "scroll",
+    motionDriver: svgId === DEFAULT_SVG_ID ? "time" : "scroll",
   };
 }
 
@@ -476,7 +489,10 @@ export function readLabSession(svgId: string): LabSession {
       motion: migrateSessionMotion(stored.motion, svgId),
       motionDriver: parseMotionDriver(
         stored.motionDriver,
-        parseMotionDriver(getBuiltinSvg(svgId)?.session.motionDriver, "scroll")
+        parseMotionDriver(
+          getBuiltinSvg(svgId)?.session.motionDriver,
+          svgId === DEFAULT_SVG_ID ? "time" : "scroll"
+        )
       ),
     };
   }

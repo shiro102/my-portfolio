@@ -52,27 +52,101 @@
     "hat": {
       "peakDeg": 5.6,
       "direction": 1,
-      "duration": 2.5
+      "duration": 2.5,
+      "mode": "sway",
+      "continuous": false
     },
     "top": {
       "peakDeg": 4.9,
       "direction": 1,
-      "duration": 2.5
+      "duration": 2.5,
+      "mode": "sway",
+      "continuous": false
     },
     "head": {
       "peakDeg": 4.2,
       "direction": 1,
-      "duration": 2.5
+      "duration": 2.5,
+      "mode": "sway",
+      "continuous": false
     },
     "hair-back": {
       "peakDeg": 4.2,
       "direction": 1,
-      "duration": 2.5
+      "duration": 2.5,
+      "mode": "sway",
+      "continuous": false
     },
     "hair-front": {
       "peakDeg": 4.2,
       "direction": 1,
-      "duration": 2.5
+      "duration": 2.5,
+      "mode": "sway",
+      "continuous": false
+    },
+    "torso": {
+      "peakDeg": 1.2,
+      "direction": 1,
+      "duration": 2.5,
+      "mode": "sway",
+      "continuous": false
+    },
+    "arm-left": {
+      "peakDeg": 3.5,
+      "direction": -1,
+      "duration": 2.5,
+      "mode": "sway",
+      "continuous": false
+    },
+    "arm-right": {
+      "peakDeg": 3.5,
+      "direction": 1,
+      "duration": 2.5,
+      "mode": "sway",
+      "continuous": false
+    },
+    "skirt": {
+      "peakDeg": 2,
+      "direction": 1,
+      "duration": 2.5,
+      "mode": "sway",
+      "continuous": false
+    },
+    "leg-left": {
+      "peakDeg": 1,
+      "direction": 1,
+      "duration": 2.5,
+      "mode": "sway",
+      "continuous": false
+    },
+    "leg-right": {
+      "peakDeg": 1,
+      "direction": -1,
+      "duration": 2.5,
+      "mode": "sway",
+      "continuous": false
+    },
+    "detail": {
+      "peakDeg": 2,
+      "direction": 1,
+      "duration": 2.5,
+      "mode": "sway",
+      "continuous": false
+    },
+    "middle": {
+      "peakDeg": 2,
+      "direction": 1,
+      "duration": 2.5,
+      "mode": "sway",
+      "continuous": false
+    },
+    "bottom": {
+      "peakDeg": 1.5,
+      "direction": 1,
+      "duration": 2.5,
+      "mode": "sway",
+      "continuous": false
     }
-  }
+  },
+  "motionDriver": "time"
 }

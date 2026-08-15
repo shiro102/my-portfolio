@@ -164,6 +164,7 @@ function writeAssets(outDir, { viewBox, styleCss, shapes, groups, session }) {
     splits: session.splits ?? {},
     pivots: session.pivots ?? {},
     motion: sanitizeMotion(session.motion),
+    motionDriver: session.motionDriver,
   };
 
   fs.mkdirSync(outDir, { recursive: true });
