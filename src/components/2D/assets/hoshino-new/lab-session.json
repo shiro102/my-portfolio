@@ -1,0 +1,78 @@
+{
+  "groupOrder": {
+    "hat": 9,
+    "head": 9,
+    "hair-back": 0,
+    "hair-front": 10,
+    "torso": 4,
+    "arm-left": 11,
+    "arm-right": 11,
+    "skirt": 3,
+    "leg-left": 1,
+    "leg-right": 2,
+    "detail": 12
+  },
+  "splits": {
+    "path-259": {
+      "axis": "angle",
+      "value": 45,
+      "px": 898.9063110351562,
+      "py": 1103.539794921875
+    },
+    "path-126": {
+      "axis": "angle",
+      "value": 124,
+      "px": 959.5665893554688,
+      "py": 742.209716796875
+    },
+    "path-196": {
+      "axis": "angle",
+      "value": 81,
+      "px": 772.4118041992188,
+      "py": 867.66943359375
+    },
+    "path-76": {
+      "axis": "angle",
+      "value": 151,
+      "px": 790.0877685546875,
+      "py": 267.1222229003906
+    }
+  },
+  "pivots": {
+    "arm-right": {
+      "pathId": "path-229"
+    },
+    "arm-left": {
+      "pathId": "path-196__b",
+      "x": 773.7116088867188,
+      "y": 842.323486328125
+    }
+  },
+  "motion": {
+    "hat": {
+      "peakDeg": 5.6,
+      "direction": 1,
+      "duration": 2.5
+    },
+    "top": {
+      "peakDeg": 4.9,
+      "direction": 1,
+      "duration": 2.5
+    },
+    "head": {
+      "peakDeg": 4.2,
+      "direction": 1,
+      "duration": 2.5
+    },
+    "hair-back": {
+      "peakDeg": 4.2,
+      "direction": 1,
+      "duration": 2.5
+    },
+    "hair-front": {
+      "peakDeg": 4.2,
+      "direction": 1,
+      "duration": 2.5
+    }
+  }
+}

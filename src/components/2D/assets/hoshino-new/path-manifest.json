@@ -1,0 +1,3782 @@
+[
+  {
+    "id": "path-0",
+    "tag": "path",
+    "className": "cls-198",
+    "x": 551,
+    "y": 1365
+  },
+  {
+    "id": "path-1",
+    "tag": "path",
+    "className": "cls-162",
+    "x": 951,
+    "y": 1842
+  },
+  {
+    "id": "path-2",
+    "tag": "path",
+    "className": "cls-198",
+    "x": 672,
+    "y": 1386
+  },
+  {
+    "id": "path-3",
+    "tag": "path",
+    "className": "cls-203",
+    "x": 1090,
+    "y": 1429
+  },
+  {
+    "id": "path-4",
+    "tag": "path",
+    "className": "cls-113",
+    "x": 584,
+    "y": 1353
+  },
+  {
+    "id": "path-5",
+    "tag": "path",
+    "className": "cls-88",
+    "x": 654,
+    "y": 1259
+  },
+  {
+    "id": "path-6",
+    "tag": "path",
+    "className": "cls-243",
+    "x": 609,
+    "y": 1278
+  },
+  {
+    "id": "path-7",
+    "tag": "path",
+    "className": "cls-101",
+    "x": 762,
+    "y": 1065
+  },
+  {
+    "id": "path-8",
+    "tag": "path",
+    "className": "cls-188",
+    "x": 1187,
+    "y": 1241
+  },
+  {
+    "id": "path-9",
+    "tag": "path",
+    "className": "cls-270",
+    "x": 589,
+    "y": 908
+  },
+  {
+    "id": "path-10",
+    "tag": "path",
+    "className": "cls-288",
+    "x": 1195,
+    "y": 997
+  },
+  {
+    "id": "path-11",
+    "tag": "path",
+    "className": "cls-188",
+    "x": 1214,
+    "y": 1099
+  },
+  {
+    "id": "path-12",
+    "tag": "path",
+    "className": "cls-212",
+    "x": 1300,
+    "y": 1283
+  },
+  {
+    "id": "path-13",
+    "tag": "path",
+    "className": "cls-25",
+    "x": 1218,
+    "y": 1206
+  },
+  {
+    "id": "path-14",
+    "tag": "path",
+    "className": "cls-188",
+    "x": 1131,
+    "y": 1258
+  },
+  {
+    "id": "path-15",
+    "tag": "path",
+    "className": "cls-153",
+    "x": 461,
+    "y": 1190
+  },
+  {
+    "id": "path-16",
+    "tag": "path",
+    "className": "cls-158",
+    "x": 1097,
+    "y": 795
+  },
+  {
+    "id": "path-17",
+    "tag": "path",
+    "className": "cls-46",
+    "x": 1279,
+    "y": 1343
+  },
+  {
+    "id": "path-18",
+    "tag": "path",
+    "className": "cls-311",
+    "x": 1075,
+    "y": 739
+  },
+  {
+    "id": "path-19",
+    "tag": "path",
+    "className": "cls-141",
+    "x": 1091,
+    "y": 1177
+  },
+  {
+    "id": "path-20",
+    "tag": "path",
+    "className": "cls-392",
+    "x": 1085,
+    "y": 1425
+  },
+  {
+    "id": "path-21",
+    "tag": "path",
+    "className": "cls-188",
+    "x": 1123,
+    "y": 1212
+  },
+  {
+    "id": "path-22",
+    "tag": "path",
+    "className": "cls-141",
+    "x": 1120,
+    "y": 1208
+  },
+  {
+    "id": "path-23",
+    "tag": "path",
+    "className": "cls-143",
+    "x": 642,
+    "y": 920
+  },
+  {
+    "id": "path-24",
+    "tag": "path",
+    "className": "cls-30",
+    "x": 702,
+    "y": 973
+  },
+  {
+    "id": "path-25",
+    "tag": "path",
+    "className": "cls-209",
+    "x": 595,
+    "y": 983
+  },
+  {
+    "id": "path-26",
+    "tag": "path",
+    "className": "cls-318",
+    "x": 687,
+    "y": 842
+  },
+  {
+    "id": "path-27",
+    "tag": "path",
+    "className": "cls-218",
+    "x": 767,
+    "y": 788
+  },
+  {
+    "id": "path-28",
+    "tag": "path",
+    "className": "cls-48",
+    "x": 579,
+    "y": 1080
+  },
+  {
+    "id": "path-29",
+    "tag": "path",
+    "className": "cls-69",
+    "x": 1186,
+    "y": 1104
+  },
+  {
+    "id": "path-30",
+    "tag": "path",
+    "className": "cls-141",
+    "x": 1147,
+    "y": 1243
+  },
+  {
+    "id": "path-31",
+    "tag": "path",
+    "className": "cls-188",
+    "x": 1186,
+    "y": 1395
+  },
+  {
+    "id": "path-32",
+    "tag": "path",
+    "className": "cls-188",
+    "x": 1186,
+    "y": 1330
+  },
+  {
+    "id": "path-33",
+    "tag": "path",
+    "className": "cls-188",
+    "x": 1173,
+    "y": 1422
+  },
+  {
+    "id": "path-34",
+    "tag": "path",
+    "className": "cls-72",
+    "x": 1147,
+    "y": 1161
+  },
+  {
+    "id": "path-35",
+    "tag": "path",
+    "className": "cls-188",
+    "x": 1157,
+    "y": 1274
+  },
+  {
+    "id": "path-36",
+    "tag": "path",
+    "className": "cls-188",
+    "x": 1146,
+    "y": 1141
+  },
+  {
+    "id": "path-37",
+    "tag": "path",
+    "className": "cls-188",
+    "x": 1175,
+    "y": 1232
+  },
+  {
+    "id": "path-38",
+    "tag": "path",
+    "className": "cls-188",
+    "x": 1164,
+    "y": 1192
+  },
+  {
+    "id": "path-39",
+    "tag": "path",
+    "className": "cls-160",
+    "x": 834,
+    "y": 779
+  },
+  {
+    "id": "path-40",
+    "tag": "path",
+    "className": "cls-152",
+    "x": 772,
+    "y": 786
+  },
+  {
+    "id": "path-41",
+    "tag": "path",
+    "className": "cls-257",
+    "x": 784,
+    "y": 781
+  },
+  {
+    "id": "path-42",
+    "tag": "path",
+    "className": "cls-354",
+    "x": 796,
+    "y": 779
+  },
+  {
+    "id": "path-43",
+    "tag": "path",
+    "className": "cls-299",
+    "x": 807,
+    "y": 778
+  },
+  {
+    "id": "path-44",
+    "tag": "path",
+    "className": "cls-179",
+    "x": 779,
+    "y": 783
+  },
+  {
+    "id": "path-45",
+    "tag": "path",
+    "className": "cls-91",
+    "x": 790,
+    "y": 780
+  },
+  {
+    "id": "path-46",
+    "tag": "polygon",
+    "className": "cls-91",
+    "x": 803,
+    "y": 779
+  },
+  {
+    "id": "path-47",
+    "tag": "path",
+    "className": "cls-9",
+    "x": 1099,
+    "y": 1156
+  },
+  {
+    "id": "path-48",
+    "tag": "path",
+    "className": "cls-141",
+    "x": 1096,
+    "y": 1102
+  },
+  {
+    "id": "path-49",
+    "tag": "path",
+    "className": "cls-141",
+    "x": 1100,
+    "y": 1123
+  },
+  {
+    "id": "path-50",
+    "tag": "path",
+    "className": "cls-181",
+    "x": 592,
+    "y": 1006
+  },
+  {
+    "id": "path-51",
+    "tag": "path",
+    "className": "cls-143",
+    "x": 534,
+    "y": 1097
+  },
+  {
+    "id": "path-52",
+    "tag": "path",
+    "className": "cls-224",
+    "x": 554,
+    "y": 1304
+  },
+  {
+    "id": "path-53",
+    "tag": "path",
+    "className": "cls-221",
+    "x": 542,
+    "y": 1295
+  },
+  {
+    "id": "path-54",
+    "tag": "path",
+    "className": "cls-102",
+    "x": 526,
+    "y": 1289
+  },
+  {
+    "id": "path-55",
+    "tag": "path",
+    "className": "cls-335",
+    "x": 573,
+    "y": 1311
+  },
+  {
+    "id": "path-56",
+    "tag": "path",
+    "className": "cls-77",
+    "x": 554,
+    "y": 1318
+  },
+  {
+    "id": "path-57",
+    "tag": "path",
+    "className": "cls-114",
+    "x": 541,
+    "y": 1313
+  },
+  {
+    "id": "path-58",
+    "tag": "path",
+    "className": "cls-168",
+    "x": 1152,
+    "y": 641
+  },
+  {
+    "id": "path-59",
+    "tag": "path",
+    "className": "cls-307",
+    "x": 642,
+    "y": 562
+  },
+  {
+    "id": "path-60",
+    "tag": "path",
+    "className": "cls-216",
+    "x": 1047,
+    "y": 577
+  },
+  {
+    "id": "path-61",
+    "tag": "path",
+    "className": "cls-73",
+    "x": 893,
+    "y": 490
+  },
+  {
+    "id": "path-62",
+    "tag": "path",
+    "className": "cls-79",
+    "x": 889,
+    "y": 454
+  },
+  {
+    "id": "path-63",
+    "tag": "path",
+    "className": "cls-122",
+    "x": 971,
+    "y": 531
+  },
+  {
+    "id": "path-64",
+    "tag": "path",
+    "className": "cls-89",
+    "x": 708,
+    "y": 598
+  },
+  {
+    "id": "path-65",
+    "tag": "path",
+    "className": "cls-307",
+    "x": 614,
+    "y": 585
+  },
+  {
+    "id": "path-66",
+    "tag": "path",
+    "className": "cls-284",
+    "x": 904,
+    "y": 283
+  },
+  {
+    "id": "path-67",
+    "tag": "path",
+    "className": "cls-81",
+    "x": 1065,
+    "y": 309
+  },
+  {
+    "id": "path-68",
+    "tag": "path",
+    "className": "cls-312",
+    "x": 889,
+    "y": 59
+  },
+  {
+    "id": "path-69",
+    "tag": "path",
+    "className": "cls-19",
+    "x": 887,
+    "y": 135
+  },
+  {
+    "id": "path-70",
+    "tag": "path",
+    "className": "cls-336",
+    "x": 886,
+    "y": 154
+  },
+  {
+    "id": "path-71",
+    "tag": "path",
+    "className": "cls-42",
+    "x": 887,
+    "y": 59
+  },
+  {
+    "id": "path-72",
+    "tag": "path",
+    "className": "cls-223",
+    "x": 888,
+    "y": 211
+  },
+  {
+    "id": "path-73",
+    "tag": "path",
+    "className": "cls-177",
+    "x": 887,
+    "y": 121
+  },
+  {
+    "id": "path-74",
+    "tag": "path",
+    "className": "cls-290",
+    "x": 886,
+    "y": 142
+  },
+  {
+    "id": "path-75",
+    "tag": "path",
+    "className": "cls-355",
+    "x": 887,
+    "y": 160
+  },
+  {
+    "id": "path-76",
+    "tag": "path",
+    "className": "cls-225",
+    "x": 879,
+    "y": 803
+  },
+  {
+    "id": "path-77",
+    "tag": "path",
+    "className": "cls-396",
+    "x": 770,
+    "y": 474
+  },
+  {
+    "id": "path-78",
+    "tag": "path",
+    "className": "cls-369",
+    "x": 1089,
+    "y": 577
+  },
+  {
+    "id": "path-79",
+    "tag": "path",
+    "className": "cls-271",
+    "x": 789,
+    "y": 517
+  },
+  {
+    "id": "path-80",
+    "tag": "path",
+    "className": "cls-270",
+    "x": 1161,
+    "y": 659
+  },
+  {
+    "id": "path-81",
+    "tag": "path",
+    "className": "cls-201",
+    "x": 990,
+    "y": 613
+  },
+  {
+    "id": "path-82",
+    "tag": "path",
+    "className": "cls-246",
+    "x": 892,
+    "y": 451
+  },
+  {
+    "id": "path-83",
+    "tag": "path",
+    "className": "cls-291",
+    "x": 1158,
+    "y": 595
+  },
+  {
+    "id": "path-84",
+    "tag": "path",
+    "className": "cls-369",
+    "x": 1067,
+    "y": 551
+  },
+  {
+    "id": "path-85",
+    "tag": "path",
+    "className": "cls-367",
+    "x": 1089,
+    "y": 513
+  },
+  {
+    "id": "path-86",
+    "tag": "path",
+    "className": "cls-307",
+    "x": 602,
+    "y": 591
+  },
+  {
+    "id": "path-87",
+    "tag": "path",
+    "className": "cls-175",
+    "x": 1058,
+    "y": 198
+  },
+  {
+    "id": "path-88",
+    "tag": "path",
+    "className": "cls-109",
+    "x": 1139,
+    "y": 209
+  },
+  {
+    "id": "path-89",
+    "tag": "path",
+    "className": "cls-336",
+    "x": 1078,
+    "y": 245
+  },
+  {
+    "id": "path-90",
+    "tag": "path",
+    "className": "cls-100",
+    "x": 736,
+    "y": 219
+  },
+  {
+    "id": "path-91",
+    "tag": "path",
+    "className": "cls-49",
+    "x": 798,
+    "y": 216
+  },
+  {
+    "id": "path-92",
+    "tag": "path",
+    "className": "cls-356",
+    "x": 1192,
+    "y": 144
+  },
+  {
+    "id": "path-93",
+    "tag": "path",
+    "className": "cls-259",
+    "x": 975,
+    "y": 227
+  },
+  {
+    "id": "path-94",
+    "tag": "polygon",
+    "className": "cls-98",
+    "x": 978,
+    "y": 236
+  },
+  {
+    "id": "path-95",
+    "tag": "path",
+    "className": "cls-397",
+    "x": 631,
+    "y": 143
+  },
+  {
+    "id": "path-96",
+    "tag": "path",
+    "className": "cls-278",
+    "x": 631,
+    "y": 144
+  },
+  {
+    "id": "path-97",
+    "tag": "path",
+    "className": "cls-331",
+    "x": 887,
+    "y": 150
+  },
+  {
+    "id": "path-98",
+    "tag": "path",
+    "className": "cls-313",
+    "x": 887,
+    "y": 171
+  },
+  {
+    "id": "path-99",
+    "tag": "path",
+    "className": "cls-336",
+    "x": 887,
+    "y": 172
+  },
+  {
+    "id": "path-100",
+    "tag": "path",
+    "className": "cls-140",
+    "x": 775,
+    "y": 1678
+  },
+  {
+    "id": "path-101",
+    "tag": "path",
+    "className": "cls-183",
+    "x": 968,
+    "y": 1691
+  },
+  {
+    "id": "path-102",
+    "tag": "path",
+    "className": "cls-308",
+    "x": 791,
+    "y": 1833
+  },
+  {
+    "id": "path-103",
+    "tag": "path",
+    "className": "cls-281",
+    "x": 785,
+    "y": 1785
+  },
+  {
+    "id": "path-104",
+    "tag": "path",
+    "className": "cls-365",
+    "x": 743,
+    "y": 1779
+  },
+  {
+    "id": "path-105",
+    "tag": "path",
+    "className": "cls-358",
+    "x": 776,
+    "y": 1686
+  },
+  {
+    "id": "path-106",
+    "tag": "path",
+    "className": "cls-197",
+    "x": 783,
+    "y": 1773
+  },
+  {
+    "id": "path-107",
+    "tag": "path",
+    "className": "cls-39",
+    "x": 822,
+    "y": 1746
+  },
+  {
+    "id": "path-108",
+    "tag": "path",
+    "className": "cls-146",
+    "x": 827,
+    "y": 1762
+  },
+  {
+    "id": "path-109",
+    "tag": "path",
+    "className": "cls-31",
+    "x": 795,
+    "y": 1818
+  },
+  {
+    "id": "path-110",
+    "tag": "path",
+    "className": "cls-22",
+    "x": 526,
+    "y": 1379
+  },
+  {
+    "id": "path-111",
+    "tag": "path",
+    "className": "cls-325",
+    "x": 503,
+    "y": 1370
+  },
+  {
+    "id": "path-112",
+    "tag": "path",
+    "className": "cls-358",
+    "x": 967,
+    "y": 1697
+  },
+  {
+    "id": "path-113",
+    "tag": "path",
+    "className": "cls-118",
+    "x": 950,
+    "y": 1845
+  },
+  {
+    "id": "path-114",
+    "tag": "path",
+    "className": "cls-359",
+    "x": 673,
+    "y": 1383
+  },
+  {
+    "id": "path-115",
+    "tag": "path",
+    "className": "cls-148",
+    "x": 830,
+    "y": 672
+  },
+  {
+    "id": "path-116",
+    "tag": "path",
+    "className": "cls-139",
+    "x": 1054,
+    "y": 685
+  },
+  {
+    "id": "path-117",
+    "tag": "path",
+    "className": "cls-265",
+    "x": 938,
+    "y": 723
+  },
+  {
+    "id": "path-118",
+    "tag": "path",
+    "className": "cls-216",
+    "x": 946,
+    "y": 624
+  },
+  {
+    "id": "path-119",
+    "tag": "path",
+    "className": "cls-266",
+    "x": 884,
+    "y": 565
+  },
+  {
+    "id": "path-120",
+    "tag": "path",
+    "className": "cls-70",
+    "x": 1062,
+    "y": 639
+  },
+  {
+    "id": "path-121",
+    "tag": "path",
+    "className": "cls-139",
+    "x": 1073,
+    "y": 737
+  },
+  {
+    "id": "path-122",
+    "tag": "path",
+    "className": "cls-14",
+    "x": 918,
+    "y": 561
+  },
+  {
+    "id": "path-123",
+    "tag": "path",
+    "className": "cls-264",
+    "x": 1015,
+    "y": 632
+  },
+  {
+    "id": "path-124",
+    "tag": "path",
+    "className": "cls-215",
+    "x": 1035,
+    "y": 620
+  },
+  {
+    "id": "path-125",
+    "tag": "path",
+    "className": "cls-294",
+    "x": 908,
+    "y": 790
+  },
+  {
+    "id": "path-126",
+    "tag": "path",
+    "className": "cls-11",
+    "x": 882,
+    "y": 735
+  },
+  {
+    "id": "path-127",
+    "tag": "path",
+    "className": "cls-84",
+    "x": 742,
+    "y": 668
+  },
+  {
+    "id": "path-128",
+    "tag": "path",
+    "className": "cls-24",
+    "x": 998,
+    "y": 740
+  },
+  {
+    "id": "path-129",
+    "tag": "path",
+    "className": "cls-214",
+    "x": 1031,
+    "y": 721
+  },
+  {
+    "id": "path-130",
+    "tag": "path",
+    "className": "cls-248",
+    "x": 978,
+    "y": 765
+  },
+  {
+    "id": "path-131",
+    "tag": "path",
+    "className": "cls-154",
+    "x": 960,
+    "y": 787
+  },
+  {
+    "id": "path-132",
+    "tag": "path",
+    "className": "cls-65",
+    "x": 985,
+    "y": 749
+  },
+  {
+    "id": "path-133",
+    "tag": "path",
+    "className": "cls-20",
+    "x": 922,
+    "y": 699
+  },
+  {
+    "id": "path-134",
+    "tag": "path",
+    "className": "cls-111",
+    "x": 1073,
+    "y": 773
+  },
+  {
+    "id": "path-135",
+    "tag": "path",
+    "className": "cls-233",
+    "x": 886,
+    "y": 1439
+  },
+  {
+    "id": "path-136",
+    "tag": "path",
+    "className": "cls-363",
+    "x": 717,
+    "y": 1495
+  },
+  {
+    "id": "path-137",
+    "tag": "path",
+    "className": "cls-334",
+    "x": 1049,
+    "y": 1528
+  },
+  {
+    "id": "path-138",
+    "tag": "path",
+    "className": "cls-314",
+    "x": 926,
+    "y": 1514
+  },
+  {
+    "id": "path-139",
+    "tag": "path",
+    "className": "cls-124",
+    "x": 842,
+    "y": 1505
+  },
+  {
+    "id": "path-140",
+    "tag": "path",
+    "className": "cls-132",
+    "x": 887,
+    "y": 1467
+  },
+  {
+    "id": "path-141",
+    "tag": "path",
+    "className": "cls-255",
+    "x": 1052,
+    "y": 1411
+  },
+  {
+    "id": "path-142",
+    "tag": "path",
+    "className": "cls-187",
+    "x": 782,
+    "y": 1394
+  },
+  {
+    "id": "path-143",
+    "tag": "path",
+    "className": "cls-351",
+    "x": 723,
+    "y": 1378
+  },
+  {
+    "id": "path-144",
+    "tag": "path",
+    "className": "cls-344",
+    "x": 722,
+    "y": 1386
+  },
+  {
+    "id": "path-145",
+    "tag": "path",
+    "className": "cls-194",
+    "x": 990,
+    "y": 1419
+  },
+  {
+    "id": "path-146",
+    "tag": "path",
+    "className": "cls-330",
+    "x": 937,
+    "y": 1415
+  },
+  {
+    "id": "path-147",
+    "tag": "path",
+    "className": "cls-242",
+    "x": 931,
+    "y": 1417
+  },
+  {
+    "id": "path-148",
+    "tag": "path",
+    "className": "cls-217",
+    "x": 836,
+    "y": 1400
+  },
+  {
+    "id": "path-149",
+    "tag": "path",
+    "className": "cls-374",
+    "x": 777,
+    "y": 1395
+  },
+  {
+    "id": "path-150",
+    "tag": "path",
+    "className": "cls-92",
+    "x": 985,
+    "y": 1418
+  },
+  {
+    "id": "path-151",
+    "tag": "path",
+    "className": "cls-145",
+    "x": 946,
+    "y": 1417
+  },
+  {
+    "id": "path-152",
+    "tag": "path",
+    "className": "cls-108",
+    "x": 830,
+    "y": 1402
+  },
+  {
+    "id": "path-153",
+    "tag": "path",
+    "className": "cls-237",
+    "x": 786,
+    "y": 1397
+  },
+  {
+    "id": "path-154",
+    "tag": "path",
+    "className": "cls-378",
+    "x": 957,
+    "y": 1419
+  },
+  {
+    "id": "path-155",
+    "tag": "path",
+    "className": "cls-378",
+    "x": 969,
+    "y": 1421
+  },
+  {
+    "id": "path-156",
+    "tag": "path",
+    "className": "cls-383",
+    "x": 978,
+    "y": 1423
+  },
+  {
+    "id": "path-157",
+    "tag": "path",
+    "className": "cls-133",
+    "x": 1003,
+    "y": 1408
+  },
+  {
+    "id": "path-158",
+    "tag": "path",
+    "className": "cls-268",
+    "x": 1013,
+    "y": 1409
+  },
+  {
+    "id": "path-159",
+    "tag": "path",
+    "className": "cls-17",
+    "x": 824,
+    "y": 1405
+  },
+  {
+    "id": "path-160",
+    "tag": "path",
+    "className": "cls-322",
+    "x": 1032,
+    "y": 1410
+  },
+  {
+    "id": "path-161",
+    "tag": "path",
+    "className": "cls-186",
+    "x": 1023,
+    "y": 1409
+  },
+  {
+    "id": "path-162",
+    "tag": "path",
+    "className": "cls-382",
+    "x": 1041,
+    "y": 1410
+  },
+  {
+    "id": "path-163",
+    "tag": "path",
+    "className": "cls-193",
+    "x": 795,
+    "y": 1396
+  },
+  {
+    "id": "path-164",
+    "tag": "path",
+    "className": "cls-66",
+    "x": 812,
+    "y": 1404
+  },
+  {
+    "id": "path-165",
+    "tag": "path",
+    "className": "cls-166",
+    "x": 782,
+    "y": 1514
+  },
+  {
+    "id": "path-166",
+    "tag": "path",
+    "className": "cls-234",
+    "x": 763,
+    "y": 1526
+  },
+  {
+    "id": "path-167",
+    "tag": "path",
+    "className": "cls-315",
+    "x": 809,
+    "y": 1531
+  },
+  {
+    "id": "path-168",
+    "tag": "path",
+    "className": "cls-166",
+    "x": 991,
+    "y": 1542
+  },
+  {
+    "id": "path-169",
+    "tag": "path",
+    "className": "cls-321",
+    "x": 1000,
+    "y": 1540
+  },
+  {
+    "id": "path-170",
+    "tag": "path",
+    "className": "cls-37",
+    "x": 955,
+    "y": 1541
+  },
+  {
+    "id": "path-171",
+    "tag": "path",
+    "className": "cls-108",
+    "x": 764,
+    "y": 1388
+  },
+  {
+    "id": "path-172",
+    "tag": "path",
+    "className": "cls-348",
+    "x": 752,
+    "y": 1382
+  },
+  {
+    "id": "path-173",
+    "tag": "path",
+    "className": "cls-317",
+    "x": 743,
+    "y": 1381
+  },
+  {
+    "id": "path-174",
+    "tag": "path",
+    "className": "cls-93",
+    "x": 730,
+    "y": 1376
+  },
+  {
+    "id": "path-175",
+    "tag": "path",
+    "className": "cls-229",
+    "x": 998,
+    "y": 1409
+  },
+  {
+    "id": "path-176",
+    "tag": "path",
+    "className": "cls-111",
+    "x": 1030,
+    "y": 805
+  },
+  {
+    "id": "path-177",
+    "tag": "path",
+    "className": "cls-395",
+    "x": 1029,
+    "y": 828
+  },
+  {
+    "id": "path-178",
+    "tag": "path",
+    "className": "cls-120",
+    "x": 1056,
+    "y": 832
+  },
+  {
+    "id": "path-179",
+    "tag": "path",
+    "className": "cls-324",
+    "x": 855,
+    "y": 600
+  },
+  {
+    "id": "path-180",
+    "tag": "path",
+    "className": "cls-28",
+    "x": 813,
+    "y": 591
+  },
+  {
+    "id": "path-181",
+    "tag": "path",
+    "className": "cls-191",
+    "x": 871,
+    "y": 627
+  },
+  {
+    "id": "path-182",
+    "tag": "path",
+    "className": "cls-366",
+    "x": 804,
+    "y": 615
+  },
+  {
+    "id": "path-183",
+    "tag": "path",
+    "className": "cls-23",
+    "x": 834,
+    "y": 647
+  },
+  {
+    "id": "path-184",
+    "tag": "path",
+    "className": "cls-192",
+    "x": 804,
+    "y": 632
+  },
+  {
+    "id": "path-185",
+    "tag": "path",
+    "className": "cls-116",
+    "x": 835,
+    "y": 631
+  },
+  {
+    "id": "path-186",
+    "tag": "path",
+    "className": "cls-104",
+    "x": 836,
+    "y": 612
+  },
+  {
+    "id": "path-187",
+    "tag": "path",
+    "className": "cls-393",
+    "x": 834,
+    "y": 643
+  },
+  {
+    "id": "path-188",
+    "tag": "path",
+    "className": "cls-13",
+    "x": 837,
+    "y": 615
+  },
+  {
+    "id": "path-189",
+    "tag": "path",
+    "className": "cls-41",
+    "x": 791,
+    "y": 1772
+  },
+  {
+    "id": "path-190",
+    "tag": "path",
+    "className": "cls-55",
+    "x": 793,
+    "y": 1791
+  },
+  {
+    "id": "path-191",
+    "tag": "path",
+    "className": "cls-190",
+    "x": 776,
+    "y": 1779
+  },
+  {
+    "id": "path-192",
+    "tag": "path",
+    "className": "cls-298",
+    "x": 807,
+    "y": 1764
+  },
+  {
+    "id": "path-193",
+    "tag": "path",
+    "className": "cls-159",
+    "x": 807,
+    "y": 1761
+  },
+  {
+    "id": "path-194",
+    "tag": "path",
+    "className": "cls-241",
+    "x": 772,
+    "y": 1769
+  },
+  {
+    "id": "path-195",
+    "tag": "polygon",
+    "className": "cls-54",
+    "x": 772,
+    "y": 1768
+  },
+  {
+    "id": "path-196",
+    "tag": "path",
+    "className": "cls-5",
+    "x": 702,
+    "y": 973
+  },
+  {
+    "id": "path-197",
+    "tag": "path",
+    "className": "cls-293",
+    "x": 905,
+    "y": 802
+  },
+  {
+    "id": "path-198",
+    "tag": "path",
+    "className": "cls-85",
+    "x": 870,
+    "y": 802
+  },
+  {
+    "id": "path-199",
+    "tag": "path",
+    "className": "cls-244",
+    "x": 903,
+    "y": 795
+  },
+  {
+    "id": "path-200",
+    "tag": "path",
+    "className": "cls-316",
+    "x": 962,
+    "y": 817
+  },
+  {
+    "id": "path-201",
+    "tag": "path",
+    "className": "cls-83",
+    "x": 949,
+    "y": 820
+  },
+  {
+    "id": "path-202",
+    "tag": "path",
+    "className": "cls-105",
+    "x": 1002,
+    "y": 1030
+  },
+  {
+    "id": "path-203",
+    "tag": "path",
+    "className": "cls-137",
+    "x": 928,
+    "y": 972
+  },
+  {
+    "id": "path-204",
+    "tag": "path",
+    "className": "cls-372",
+    "x": 1068,
+    "y": 856
+  },
+  {
+    "id": "path-205",
+    "tag": "path",
+    "className": "cls-352",
+    "x": 1024,
+    "y": 1023
+  },
+  {
+    "id": "path-206",
+    "tag": "path",
+    "className": "cls-4",
+    "x": 1020,
+    "y": 1011
+  },
+  {
+    "id": "path-207",
+    "tag": "path",
+    "className": "cls-230",
+    "x": 762,
+    "y": 1057
+  },
+  {
+    "id": "path-208",
+    "tag": "path",
+    "className": "cls-136",
+    "x": 947,
+    "y": 1046
+  },
+  {
+    "id": "path-209",
+    "tag": "path",
+    "className": "cls-297",
+    "x": 741,
+    "y": 1022
+  },
+  {
+    "id": "path-210",
+    "tag": "path",
+    "className": "cls-277",
+    "x": 810,
+    "y": 946
+  },
+  {
+    "id": "path-211",
+    "tag": "path",
+    "className": "cls-82",
+    "x": 830,
+    "y": 817
+  },
+  {
+    "id": "path-212",
+    "tag": "path",
+    "className": "cls-86",
+    "x": 798,
+    "y": 905
+  },
+  {
+    "id": "path-213",
+    "tag": "path",
+    "className": "cls-35",
+    "x": 820,
+    "y": 850
+  },
+  {
+    "id": "path-214",
+    "tag": "path",
+    "className": "cls-297",
+    "x": 678,
+    "y": 1010
+  },
+  {
+    "id": "path-215",
+    "tag": "path",
+    "className": "cls-231",
+    "x": 716,
+    "y": 1111
+  },
+  {
+    "id": "path-216",
+    "tag": "path",
+    "className": "cls-83",
+    "x": 929,
+    "y": 811
+  },
+  {
+    "id": "path-217",
+    "tag": "path",
+    "className": "cls-85",
+    "x": 895,
+    "y": 819
+  },
+  {
+    "id": "path-218",
+    "tag": "path",
+    "className": "cls-342",
+    "x": 964,
+    "y": 893
+  },
+  {
+    "id": "path-219",
+    "tag": "path",
+    "className": "cls-267",
+    "x": 988,
+    "y": 844
+  },
+  {
+    "id": "path-220",
+    "tag": "path",
+    "className": "cls-326",
+    "x": 993,
+    "y": 847
+  },
+  {
+    "id": "path-221",
+    "tag": "path",
+    "className": "cls-342",
+    "x": 844,
+    "y": 882
+  },
+  {
+    "id": "path-222",
+    "tag": "path",
+    "className": "cls-6",
+    "x": 988,
+    "y": 1025
+  },
+  {
+    "id": "path-223",
+    "tag": "path",
+    "className": "cls-208",
+    "x": 969,
+    "y": 989
+  },
+  {
+    "id": "path-224",
+    "tag": "path",
+    "className": "cls-5",
+    "x": 1106,
+    "y": 965
+  },
+  {
+    "id": "path-225",
+    "tag": "path",
+    "className": "cls-333",
+    "x": 1081,
+    "y": 880
+  },
+  {
+    "id": "path-226",
+    "tag": "path",
+    "className": "cls-95",
+    "x": 1056,
+    "y": 1007
+  },
+  {
+    "id": "path-227",
+    "tag": "path",
+    "className": "cls-127",
+    "x": 1033,
+    "y": 942
+  },
+  {
+    "id": "path-228",
+    "tag": "path",
+    "className": "cls-380",
+    "x": 1033,
+    "y": 897
+  },
+  {
+    "id": "path-229",
+    "tag": "path",
+    "className": "cls-134",
+    "x": 1072,
+    "y": 1048
+  },
+  {
+    "id": "path-230",
+    "tag": "path",
+    "className": "cls-269",
+    "x": 1051,
+    "y": 1003
+  },
+  {
+    "id": "path-231",
+    "tag": "path",
+    "className": "cls-103",
+    "x": 1070,
+    "y": 1037
+  },
+  {
+    "id": "path-232",
+    "tag": "path",
+    "className": "cls-373",
+    "x": 1043,
+    "y": 985
+  },
+  {
+    "id": "path-233",
+    "tag": "path",
+    "className": "cls-123",
+    "x": 1063,
+    "y": 1028
+  },
+  {
+    "id": "path-234",
+    "tag": "path",
+    "className": "cls-289",
+    "x": 1059,
+    "y": 1020
+  },
+  {
+    "id": "path-235",
+    "tag": "path",
+    "className": "cls-352",
+    "x": 1055,
+    "y": 1011
+  },
+  {
+    "id": "path-236",
+    "tag": "path",
+    "className": "cls-253",
+    "x": 1047,
+    "y": 994
+  },
+  {
+    "id": "path-237",
+    "tag": "path",
+    "className": "cls-129",
+    "x": 1087,
+    "y": 949
+  },
+  {
+    "id": "path-238",
+    "tag": "path",
+    "className": "cls-99",
+    "x": 1064,
+    "y": 870
+  },
+  {
+    "id": "path-239",
+    "tag": "path",
+    "className": "cls-283",
+    "x": 1036,
+    "y": 1022
+  },
+  {
+    "id": "path-240",
+    "tag": "path",
+    "className": "cls-129",
+    "x": 1022,
+    "y": 914
+  },
+  {
+    "id": "path-241",
+    "tag": "path",
+    "className": "cls-71",
+    "x": 1038,
+    "y": 977
+  },
+  {
+    "id": "path-242",
+    "tag": "path",
+    "className": "cls-310",
+    "x": 1034,
+    "y": 968
+  },
+  {
+    "id": "path-243",
+    "tag": "path",
+    "className": "cls-96",
+    "x": 1028,
+    "y": 952
+  },
+  {
+    "id": "path-244",
+    "tag": "path",
+    "className": "cls-97",
+    "x": 1027,
+    "y": 945
+  },
+  {
+    "id": "path-245",
+    "tag": "path",
+    "className": "cls-339",
+    "x": 1031,
+    "y": 960
+  },
+  {
+    "id": "path-246",
+    "tag": "path",
+    "className": "cls-285",
+    "x": 1028,
+    "y": 938
+  },
+  {
+    "id": "path-247",
+    "tag": "path",
+    "className": "cls-15",
+    "x": 1030,
+    "y": 932
+  },
+  {
+    "id": "path-248",
+    "tag": "path",
+    "className": "cls-38",
+    "x": 1040,
+    "y": 931
+  },
+  {
+    "id": "path-249",
+    "tag": "path",
+    "className": "cls-227",
+    "x": 920,
+    "y": 1033
+  },
+  {
+    "id": "path-250",
+    "tag": "path",
+    "className": "cls-67",
+    "x": 929,
+    "y": 972
+  },
+  {
+    "id": "path-251",
+    "tag": "path",
+    "className": "cls-205",
+    "x": 889,
+    "y": 1044
+  },
+  {
+    "id": "path-252",
+    "tag": "path",
+    "className": "cls-376",
+    "x": 849,
+    "y": 990
+  },
+  {
+    "id": "path-253",
+    "tag": "path",
+    "className": "cls-391",
+    "x": 912,
+    "y": 990
+  },
+  {
+    "id": "path-254",
+    "tag": "path",
+    "className": "cls-205",
+    "x": 897,
+    "y": 990
+  },
+  {
+    "id": "path-255",
+    "tag": "path",
+    "className": "cls-277",
+    "x": 870,
+    "y": 987
+  },
+  {
+    "id": "path-256",
+    "tag": "path",
+    "className": "cls-391",
+    "x": 926,
+    "y": 989
+  },
+  {
+    "id": "path-257",
+    "tag": "polygon",
+    "className": "cls-63",
+    "x": 945,
+    "y": 1080
+  },
+  {
+    "id": "path-258",
+    "tag": "path",
+    "className": "cls-357",
+    "x": 897,
+    "y": 1079
+  },
+  {
+    "id": "path-259",
+    "tag": "path",
+    "className": "cls-58",
+    "x": 898,
+    "y": 1090
+  },
+  {
+    "id": "path-260",
+    "tag": "path",
+    "className": "cls-206",
+    "x": 920,
+    "y": 1104
+  },
+  {
+    "id": "path-261",
+    "tag": "path",
+    "className": "cls-239",
+    "x": 854,
+    "y": 1063
+  },
+  {
+    "id": "path-262",
+    "tag": "path",
+    "className": "cls-232",
+    "x": 813,
+    "y": 1050
+  },
+  {
+    "id": "path-263",
+    "tag": "path",
+    "className": "cls-292",
+    "x": 839,
+    "y": 1026
+  },
+  {
+    "id": "path-264",
+    "tag": "path",
+    "className": "cls-40",
+    "x": 776,
+    "y": 962
+  },
+  {
+    "id": "path-265",
+    "tag": "path",
+    "className": "cls-377",
+    "x": 770,
+    "y": 988
+  },
+  {
+    "id": "path-266",
+    "tag": "path",
+    "className": "cls-33",
+    "x": 720,
+    "y": 1105
+  },
+  {
+    "id": "path-267",
+    "tag": "path",
+    "className": "cls-119",
+    "x": 767,
+    "y": 996
+  },
+  {
+    "id": "path-268",
+    "tag": "path",
+    "className": "cls-155",
+    "x": 723,
+    "y": 1097
+  },
+  {
+    "id": "path-269",
+    "tag": "path",
+    "className": "cls-364",
+    "x": 764,
+    "y": 1005
+  },
+  {
+    "id": "path-270",
+    "tag": "path",
+    "className": "cls-4",
+    "x": 775,
+    "y": 972
+  },
+  {
+    "id": "path-271",
+    "tag": "path",
+    "className": "cls-167",
+    "x": 772,
+    "y": 980
+  },
+  {
+    "id": "path-272",
+    "tag": "path",
+    "className": "cls-45",
+    "x": 754,
+    "y": 1041
+  },
+  {
+    "id": "path-273",
+    "tag": "path",
+    "className": "cls-337",
+    "x": 732,
+    "y": 1083
+  },
+  {
+    "id": "path-274",
+    "tag": "path",
+    "className": "cls-163",
+    "x": 761,
+    "y": 1013
+  },
+  {
+    "id": "path-275",
+    "tag": "path",
+    "className": "cls-375",
+    "x": 759,
+    "y": 1021
+  },
+  {
+    "id": "path-276",
+    "tag": "path",
+    "className": "cls-327",
+    "x": 739,
+    "y": 1070
+  },
+  {
+    "id": "path-277",
+    "tag": "path",
+    "className": "cls-328",
+    "x": 744,
+    "y": 1065
+  },
+  {
+    "id": "path-278",
+    "tag": "path",
+    "className": "cls-360",
+    "x": 757,
+    "y": 1030
+  },
+  {
+    "id": "path-279",
+    "tag": "path",
+    "className": "cls-161",
+    "x": 736,
+    "y": 1077
+  },
+  {
+    "id": "path-280",
+    "tag": "path",
+    "className": "cls-7",
+    "x": 808,
+    "y": 906
+  },
+  {
+    "id": "path-281",
+    "tag": "path",
+    "className": "cls-346",
+    "x": 792,
+    "y": 956
+  },
+  {
+    "id": "path-282",
+    "tag": "path",
+    "className": "cls-277",
+    "x": 808,
+    "y": 902
+  },
+  {
+    "id": "path-283",
+    "tag": "path",
+    "className": "cls-362",
+    "x": 919,
+    "y": 894
+  },
+  {
+    "id": "path-284",
+    "tag": "path",
+    "className": "cls-235",
+    "x": 930,
+    "y": 839
+  },
+  {
+    "id": "path-285",
+    "tag": "path",
+    "className": "cls-172",
+    "x": 922,
+    "y": 911
+  },
+  {
+    "id": "path-286",
+    "tag": "path",
+    "className": "cls-305",
+    "x": 906,
+    "y": 840
+  },
+  {
+    "id": "path-287",
+    "tag": "path",
+    "className": "cls-182",
+    "x": 895,
+    "y": 820
+  },
+  {
+    "id": "path-288",
+    "tag": "path",
+    "className": "cls-213",
+    "x": 1000,
+    "y": 891
+  },
+  {
+    "id": "path-289",
+    "tag": "path",
+    "className": "cls-381",
+    "x": 1002,
+    "y": 883
+  },
+  {
+    "id": "path-290",
+    "tag": "path",
+    "className": "cls-27",
+    "x": 840,
+    "y": 973
+  },
+  {
+    "id": "path-291",
+    "tag": "path",
+    "className": "cls-110",
+    "x": 829,
+    "y": 975
+  },
+  {
+    "id": "path-292",
+    "tag": "path",
+    "className": "cls-126",
+    "x": 814,
+    "y": 974
+  },
+  {
+    "id": "path-293",
+    "tag": "path",
+    "className": "cls-252",
+    "x": 819,
+    "y": 849
+  },
+  {
+    "id": "path-294",
+    "tag": "path",
+    "className": "cls-238",
+    "x": 819,
+    "y": 848
+  },
+  {
+    "id": "path-295",
+    "tag": "path",
+    "className": "cls-303",
+    "x": 1098,
+    "y": 1241
+  },
+  {
+    "id": "path-296",
+    "tag": "path",
+    "className": "cls-173",
+    "x": 669,
+    "y": 1254
+  },
+  {
+    "id": "path-297",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 1047,
+    "y": 1303
+  },
+  {
+    "id": "path-298",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 1066,
+    "y": 1209
+  },
+  {
+    "id": "path-299",
+    "tag": "path",
+    "className": "cls-184",
+    "x": 1109,
+    "y": 1343
+  },
+  {
+    "id": "path-300",
+    "tag": "path",
+    "className": "cls-117",
+    "x": 1064,
+    "y": 1249
+  },
+  {
+    "id": "path-301",
+    "tag": "path",
+    "className": "cls-245",
+    "x": 1139,
+    "y": 1338
+  },
+  {
+    "id": "path-302",
+    "tag": "path",
+    "className": "cls-135",
+    "x": 1001,
+    "y": 1095
+  },
+  {
+    "id": "path-303",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 1006,
+    "y": 1078
+  },
+  {
+    "id": "path-304",
+    "tag": "polygon",
+    "className": "cls-200",
+    "x": 1080,
+    "y": 1346
+  },
+  {
+    "id": "path-305",
+    "tag": "path",
+    "className": "cls-276",
+    "x": 1112,
+    "y": 1249
+  },
+  {
+    "id": "path-306",
+    "tag": "path",
+    "className": "cls-106",
+    "x": 1100,
+    "y": 1254
+  },
+  {
+    "id": "path-307",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 1071,
+    "y": 1151
+  },
+  {
+    "id": "path-308",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 984,
+    "y": 1106
+  },
+  {
+    "id": "path-309",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 1045,
+    "y": 1099
+  },
+  {
+    "id": "path-310",
+    "tag": "path",
+    "className": "cls-276",
+    "x": 1123,
+    "y": 1296
+  },
+  {
+    "id": "path-311",
+    "tag": "path",
+    "className": "cls-276",
+    "x": 1132,
+    "y": 1296
+  },
+  {
+    "id": "path-312",
+    "tag": "path",
+    "className": "cls-178",
+    "x": 718,
+    "y": 1216
+  },
+  {
+    "id": "path-313",
+    "tag": "path",
+    "className": "cls-272",
+    "x": 652,
+    "y": 1292
+  },
+  {
+    "id": "path-314",
+    "tag": "path",
+    "className": "cls-157",
+    "x": 697,
+    "y": 1212
+  },
+  {
+    "id": "path-315",
+    "tag": "path",
+    "className": "cls-384",
+    "x": 689,
+    "y": 1315
+  },
+  {
+    "id": "path-316",
+    "tag": "path",
+    "className": "cls-261",
+    "x": 751,
+    "y": 1224
+  },
+  {
+    "id": "path-317",
+    "tag": "path",
+    "className": "cls-379",
+    "x": 727,
+    "y": 1224
+  },
+  {
+    "id": "path-318",
+    "tag": "path",
+    "className": "cls-178",
+    "x": 729,
+    "y": 1225
+  },
+  {
+    "id": "path-319",
+    "tag": "path",
+    "className": "cls-157",
+    "x": 751,
+    "y": 1123
+  },
+  {
+    "id": "path-320",
+    "tag": "path",
+    "className": "cls-226",
+    "x": 716,
+    "y": 1212
+  },
+  {
+    "id": "path-321",
+    "tag": "path",
+    "className": "cls-178",
+    "x": 706,
+    "y": 1312
+  },
+  {
+    "id": "path-322",
+    "tag": "path",
+    "className": "cls-301",
+    "x": 688,
+    "y": 1348
+  },
+  {
+    "id": "path-323",
+    "tag": "path",
+    "className": "cls-301",
+    "x": 710,
+    "y": 1228
+  },
+  {
+    "id": "path-324",
+    "tag": "path",
+    "className": "cls-173",
+    "x": 727,
+    "y": 1356
+  },
+  {
+    "id": "path-325",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 1007,
+    "y": 1163
+  },
+  {
+    "id": "path-326",
+    "tag": "path",
+    "className": "cls-195",
+    "x": 834,
+    "y": 1345
+  },
+  {
+    "id": "path-327",
+    "tag": "path",
+    "className": "cls-236",
+    "x": 936,
+    "y": 1258
+  },
+  {
+    "id": "path-328",
+    "tag": "path",
+    "className": "cls-1",
+    "x": 1005,
+    "y": 1356
+  },
+  {
+    "id": "path-329",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 963,
+    "y": 1172
+  },
+  {
+    "id": "path-330",
+    "tag": "path",
+    "className": "cls-156",
+    "x": 1010,
+    "y": 1256
+  },
+  {
+    "id": "path-331",
+    "tag": "path",
+    "className": "cls-340",
+    "x": 861,
+    "y": 1251
+  },
+  {
+    "id": "path-332",
+    "tag": "path",
+    "className": "cls-29",
+    "x": 759,
+    "y": 1330
+  },
+  {
+    "id": "path-333",
+    "tag": "path",
+    "className": "cls-121",
+    "x": 998,
+    "y": 1256
+  },
+  {
+    "id": "path-334",
+    "tag": "path",
+    "className": "cls-128",
+    "x": 915,
+    "y": 1355
+  },
+  {
+    "id": "path-335",
+    "tag": "path",
+    "className": "cls-258",
+    "x": 850,
+    "y": 1245
+  },
+  {
+    "id": "path-336",
+    "tag": "path",
+    "className": "cls-149",
+    "x": 761,
+    "y": 1229
+  },
+  {
+    "id": "path-337",
+    "tag": "path",
+    "className": "cls-258",
+    "x": 920,
+    "y": 1253
+  },
+  {
+    "id": "path-338",
+    "tag": "path",
+    "className": "cls-287",
+    "x": 814,
+    "y": 1145
+  },
+  {
+    "id": "path-339",
+    "tag": "path",
+    "className": "cls-262",
+    "x": 785,
+    "y": 1236
+  },
+  {
+    "id": "path-340",
+    "tag": "path",
+    "className": "cls-149",
+    "x": 795,
+    "y": 1138
+  },
+  {
+    "id": "path-341",
+    "tag": "path",
+    "className": "cls-178",
+    "x": 726,
+    "y": 1312
+  },
+  {
+    "id": "path-342",
+    "tag": "path",
+    "className": "cls-178",
+    "x": 713,
+    "y": 1355
+  },
+  {
+    "id": "path-343",
+    "tag": "path",
+    "className": "cls-144",
+    "x": 985,
+    "y": 1155
+  },
+  {
+    "id": "path-344",
+    "tag": "path",
+    "className": "cls-2",
+    "x": 901,
+    "y": 1151
+  },
+  {
+    "id": "path-345",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 852,
+    "y": 1245
+  },
+  {
+    "id": "path-346",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 1001,
+    "y": 1256
+  },
+  {
+    "id": "path-347",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 924,
+    "y": 1252
+  },
+  {
+    "id": "path-348",
+    "tag": "path",
+    "className": "cls-2",
+    "x": 925,
+    "y": 1154
+  },
+  {
+    "id": "path-349",
+    "tag": "path",
+    "className": "cls-74",
+    "x": 787,
+    "y": 1237
+  },
+  {
+    "id": "path-350",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 844,
+    "y": 1342
+  },
+  {
+    "id": "path-351",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 921,
+    "y": 1351
+  },
+  {
+    "id": "path-352",
+    "tag": "path",
+    "className": "cls-199",
+    "x": 836,
+    "y": 1072
+  },
+  {
+    "id": "path-353",
+    "tag": "polygon",
+    "className": "cls-200",
+    "x": 929,
+    "y": 1160
+  },
+  {
+    "id": "path-354",
+    "tag": "path",
+    "className": "cls-249",
+    "x": 773,
+    "y": 1327
+  },
+  {
+    "id": "path-355",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 1008,
+    "y": 1353
+  },
+  {
+    "id": "path-356",
+    "tag": "path",
+    "className": "cls-94",
+    "x": 774,
+    "y": 1128
+  },
+  {
+    "id": "path-357",
+    "tag": "path",
+    "className": "cls-211",
+    "x": 838,
+    "y": 1082
+  },
+  {
+    "id": "path-358",
+    "tag": "path",
+    "className": "cls-272",
+    "x": 1033,
+    "y": 1154
+  },
+  {
+    "id": "path-359",
+    "tag": "path",
+    "className": "cls-341",
+    "x": 1059,
+    "y": 1255
+  },
+  {
+    "id": "path-360",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 1060,
+    "y": 1254
+  },
+  {
+    "id": "path-361",
+    "tag": "path",
+    "className": "cls-178",
+    "x": 774,
+    "y": 1135
+  },
+  {
+    "id": "path-362",
+    "tag": "path",
+    "className": "cls-280",
+    "x": 830,
+    "y": 1093
+  },
+  {
+    "id": "path-363",
+    "tag": "path",
+    "className": "cls-343",
+    "x": 795,
+    "y": 1081
+  },
+  {
+    "id": "path-364",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 1044,
+    "y": 1193
+  },
+  {
+    "id": "path-365",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 973,
+    "y": 1299
+  },
+  {
+    "id": "path-366",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 904,
+    "y": 1177
+  },
+  {
+    "id": "path-367",
+    "tag": "path",
+    "className": "cls-236",
+    "x": 972,
+    "y": 1206
+  },
+  {
+    "id": "path-368",
+    "tag": "path",
+    "className": "cls-301",
+    "x": 882,
+    "y": 1234
+  },
+  {
+    "id": "path-369",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 986,
+    "y": 1399
+  },
+  {
+    "id": "path-370",
+    "tag": "path",
+    "className": "cls-43",
+    "x": 865,
+    "y": 1152
+  },
+  {
+    "id": "path-371",
+    "tag": "path",
+    "className": "cls-43",
+    "x": 877,
+    "y": 1165
+  },
+  {
+    "id": "path-372",
+    "tag": "path",
+    "className": "cls-303",
+    "x": 971,
+    "y": 1198
+  },
+  {
+    "id": "path-373",
+    "tag": "path",
+    "className": "cls-287",
+    "x": 837,
+    "y": 1118
+  },
+  {
+    "id": "path-374",
+    "tag": "path",
+    "className": "cls-178",
+    "x": 739,
+    "y": 1305
+  },
+  {
+    "id": "path-375",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 986,
+    "y": 1352
+  },
+  {
+    "id": "path-376",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 909,
+    "y": 1166
+  },
+  {
+    "id": "path-377",
+    "tag": "path",
+    "className": "cls-178",
+    "x": 744,
+    "y": 1302
+  },
+  {
+    "id": "path-378",
+    "tag": "path",
+    "className": "cls-303",
+    "x": 1023,
+    "y": 1159
+  },
+  {
+    "id": "path-379",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 984,
+    "y": 1277
+  },
+  {
+    "id": "path-380",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 917,
+    "y": 1122
+  },
+  {
+    "id": "path-381",
+    "tag": "path",
+    "className": "cls-149",
+    "x": 732,
+    "y": 1272
+  },
+  {
+    "id": "path-382",
+    "tag": "path",
+    "className": "cls-301",
+    "x": 721,
+    "y": 1350
+  },
+  {
+    "id": "path-383",
+    "tag": "path",
+    "className": "cls-301",
+    "x": 708,
+    "y": 1353
+  },
+  {
+    "id": "path-384",
+    "tag": "path",
+    "className": "cls-301",
+    "x": 714,
+    "y": 1351
+  },
+  {
+    "id": "path-385",
+    "tag": "path",
+    "className": "cls-301",
+    "x": 727,
+    "y": 1350
+  },
+  {
+    "id": "path-386",
+    "tag": "path",
+    "className": "cls-301",
+    "x": 732,
+    "y": 1345
+  },
+  {
+    "id": "path-387",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 884,
+    "y": 1286
+  },
+  {
+    "id": "path-388",
+    "tag": "path",
+    "className": "cls-2",
+    "x": 896,
+    "y": 1183
+  },
+  {
+    "id": "path-389",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 818,
+    "y": 1249
+  },
+  {
+    "id": "path-390",
+    "tag": "path",
+    "className": "cls-50",
+    "x": 802,
+    "y": 1241
+  },
+  {
+    "id": "path-391",
+    "tag": "path",
+    "className": "cls-301",
+    "x": 835,
+    "y": 1186
+  },
+  {
+    "id": "path-392",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 961,
+    "y": 1349
+  },
+  {
+    "id": "path-393",
+    "tag": "path",
+    "className": "cls-303",
+    "x": 968,
+    "y": 1300
+  },
+  {
+    "id": "path-394",
+    "tag": "path",
+    "className": "cls-236",
+    "x": 961,
+    "y": 1308
+  },
+  {
+    "id": "path-395",
+    "tag": "path",
+    "className": "cls-236",
+    "x": 971,
+    "y": 1309
+  },
+  {
+    "id": "path-396",
+    "tag": "path",
+    "className": "cls-258",
+    "x": 910,
+    "y": 1298
+  },
+  {
+    "id": "path-397",
+    "tag": "path",
+    "className": "cls-389",
+    "x": 964,
+    "y": 1252
+  },
+  {
+    "id": "path-398",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 974,
+    "y": 1279
+  },
+  {
+    "id": "path-399",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 978,
+    "y": 1274
+  },
+  {
+    "id": "path-400",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 953,
+    "y": 1245
+  },
+  {
+    "id": "path-401",
+    "tag": "path",
+    "className": "cls-200",
+    "x": 975,
+    "y": 1287
+  },
+  {
+    "id": "path-402",
+    "tag": "path",
+    "className": "cls-76",
+    "x": 955,
+    "y": 1786
+  },
+  {
+    "id": "path-403",
+    "tag": "path",
+    "className": "cls-176",
+    "x": 945,
+    "y": 1829
+  },
+  {
+    "id": "path-404",
+    "tag": "path",
+    "className": "cls-34",
+    "x": 955,
+    "y": 1784
+  },
+  {
+    "id": "path-405",
+    "tag": "path",
+    "className": "cls-107",
+    "x": 910,
+    "y": 1783
+  },
+  {
+    "id": "path-406",
+    "tag": "path",
+    "className": "cls-170",
+    "x": 909,
+    "y": 1791
+  },
+  {
+    "id": "path-407",
+    "tag": "path",
+    "className": "cls-47",
+    "x": 993,
+    "y": 1786
+  },
+  {
+    "id": "path-408",
+    "tag": "path",
+    "className": "cls-170",
+    "x": 948,
+    "y": 1784
+  },
+  {
+    "id": "path-409",
+    "tag": "path",
+    "className": "cls-90",
+    "x": 949,
+    "y": 1800
+  },
+  {
+    "id": "path-410",
+    "tag": "path",
+    "className": "cls-300",
+    "x": 962,
+    "y": 1787
+  },
+  {
+    "id": "path-411",
+    "tag": "path",
+    "className": "cls-51",
+    "x": 930,
+    "y": 1787
+  },
+  {
+    "id": "path-412",
+    "tag": "path",
+    "className": "cls-44",
+    "x": 931,
+    "y": 1776
+  },
+  {
+    "id": "path-413",
+    "tag": "path",
+    "className": "cls-196",
+    "x": 931,
+    "y": 1776
+  },
+  {
+    "id": "path-414",
+    "tag": "path",
+    "className": "cls-241",
+    "x": 964,
+    "y": 1775
+  },
+  {
+    "id": "path-415",
+    "tag": "path",
+    "className": "cls-309",
+    "x": 965,
+    "y": 1776
+  },
+  {
+    "id": "path-416",
+    "tag": "path",
+    "className": "cls-323",
+    "x": 168,
+    "y": 1613
+  },
+  {
+    "id": "path-417",
+    "tag": "path",
+    "className": "cls-263",
+    "x": 566,
+    "y": 1190
+  },
+  {
+    "id": "path-418",
+    "tag": "path",
+    "className": "cls-131",
+    "x": 346,
+    "y": 1483
+  },
+  {
+    "id": "path-419",
+    "tag": "path",
+    "className": "cls-320",
+    "x": 105,
+    "y": 1717
+  },
+  {
+    "id": "path-420",
+    "tag": "path",
+    "className": "cls-323",
+    "x": 41,
+    "y": 1768
+  },
+  {
+    "id": "path-421",
+    "tag": "path",
+    "className": "cls-368",
+    "x": 253,
+    "y": 1536
+  },
+  {
+    "id": "path-422",
+    "tag": "path",
+    "className": "cls-125",
+    "x": 273,
+    "y": 1541
+  },
+  {
+    "id": "path-423",
+    "tag": "path",
+    "className": "cls-57",
+    "x": 26,
+    "y": 1726
+  },
+  {
+    "id": "path-424",
+    "tag": "path",
+    "className": "cls-8",
+    "x": 54,
+    "y": 1711
+  },
+  {
+    "id": "path-425",
+    "tag": "path",
+    "className": "cls-59",
+    "x": 101,
+    "y": 1720
+  },
+  {
+    "id": "path-426",
+    "tag": "path",
+    "className": "cls-304",
+    "x": 59,
+    "y": 1718
+  },
+  {
+    "id": "path-427",
+    "tag": "path",
+    "className": "cls-171",
+    "x": 56,
+    "y": 1745
+  },
+  {
+    "id": "path-428",
+    "tag": "path",
+    "className": "cls-3",
+    "x": 32,
+    "y": 1742
+  },
+  {
+    "id": "path-429",
+    "tag": "path",
+    "className": "cls-64",
+    "x": 80,
+    "y": 1719
+  },
+  {
+    "id": "path-430",
+    "tag": "path",
+    "className": "cls-202",
+    "x": 91,
+    "y": 1715
+  },
+  {
+    "id": "path-431",
+    "tag": "path",
+    "className": "cls-251",
+    "x": 202,
+    "y": 1611
+  },
+  {
+    "id": "path-432",
+    "tag": "path",
+    "className": "cls-250",
+    "x": 45,
+    "y": 1744
+  },
+  {
+    "id": "path-433",
+    "tag": "path",
+    "className": "cls-387",
+    "x": 195,
+    "y": 1590
+  },
+  {
+    "id": "path-434",
+    "tag": "path",
+    "className": "cls-64",
+    "x": 69,
+    "y": 1710
+  },
+  {
+    "id": "path-435",
+    "tag": "path",
+    "className": "cls-180",
+    "x": 341,
+    "y": 1458
+  },
+  {
+    "id": "path-436",
+    "tag": "path",
+    "className": "cls-399",
+    "x": 348,
+    "y": 1455
+  },
+  {
+    "id": "path-437",
+    "tag": "path",
+    "className": "cls-103",
+    "x": 583,
+    "y": 1175
+  },
+  {
+    "id": "path-438",
+    "tag": "path",
+    "className": "cls-339",
+    "x": 447,
+    "y": 1291
+  },
+  {
+    "id": "path-439",
+    "tag": "path",
+    "className": "cls-12",
+    "x": 588,
+    "y": 1258
+  },
+  {
+    "id": "path-440",
+    "tag": "path",
+    "className": "cls-157",
+    "x": 684,
+    "y": 1120
+  },
+  {
+    "id": "path-441",
+    "tag": "path",
+    "className": "cls-282",
+    "x": 603,
+    "y": 1226
+  },
+  {
+    "id": "path-442",
+    "tag": "path",
+    "className": "cls-292",
+    "x": 493,
+    "y": 1254
+  },
+  {
+    "id": "path-443",
+    "tag": "path",
+    "className": "cls-112",
+    "x": 681,
+    "y": 1124
+  },
+  {
+    "id": "path-444",
+    "tag": "path",
+    "className": "cls-56",
+    "x": 455,
+    "y": 1310
+  },
+  {
+    "id": "path-445",
+    "tag": "path",
+    "className": "cls-185",
+    "x": 497,
+    "y": 1300
+  },
+  {
+    "id": "path-446",
+    "tag": "path",
+    "className": "cls-353",
+    "x": 523,
+    "y": 1275
+  },
+  {
+    "id": "path-447",
+    "tag": "path",
+    "className": "cls-256",
+    "x": 504,
+    "y": 1274
+  },
+  {
+    "id": "path-448",
+    "tag": "path",
+    "className": "cls-273",
+    "x": 502,
+    "y": 1278
+  },
+  {
+    "id": "path-449",
+    "tag": "path",
+    "className": "cls-394",
+    "x": 430,
+    "y": 1366
+  },
+  {
+    "id": "path-450",
+    "tag": "path",
+    "className": "cls-62",
+    "x": 334,
+    "y": 1499
+  },
+  {
+    "id": "path-451",
+    "tag": "path",
+    "className": "cls-26",
+    "x": 370,
+    "y": 1453
+  },
+  {
+    "id": "path-452",
+    "tag": "path",
+    "className": "cls-115",
+    "x": 611,
+    "y": 1256
+  },
+  {
+    "id": "path-453",
+    "tag": "path",
+    "className": "cls-295",
+    "x": 658,
+    "y": 1215
+  },
+  {
+    "id": "path-454",
+    "tag": "path",
+    "className": "cls-220",
+    "x": 39,
+    "y": 1746
+  },
+  {
+    "id": "path-455",
+    "tag": "path",
+    "className": "cls-390",
+    "x": 33,
+    "y": 1747
+  },
+  {
+    "id": "path-456",
+    "tag": "path",
+    "className": "cls-147",
+    "x": 391,
+    "y": 1312
+  },
+  {
+    "id": "path-457",
+    "tag": "path",
+    "className": "cls-228",
+    "x": 374,
+    "y": 1335
+  },
+  {
+    "id": "path-458",
+    "tag": "path",
+    "className": "cls-370",
+    "x": 395,
+    "y": 1308
+  },
+  {
+    "id": "path-459",
+    "tag": "path",
+    "className": "cls-251",
+    "x": 268,
+    "y": 1545
+  },
+  {
+    "id": "path-460",
+    "tag": "path",
+    "className": "cls-78",
+    "x": 326,
+    "y": 1495
+  },
+  {
+    "id": "path-461",
+    "tag": "path",
+    "className": "cls-251",
+    "x": 230,
+    "y": 1582
+  },
+  {
+    "id": "path-462",
+    "tag": "path",
+    "className": "cls-345",
+    "x": 293,
+    "y": 1517
+  },
+  {
+    "id": "path-463",
+    "tag": "path",
+    "className": "cls-174",
+    "x": 299,
+    "y": 1509
+  },
+  {
+    "id": "path-464",
+    "tag": "path",
+    "className": "cls-251",
+    "x": 212,
+    "y": 1603
+  },
+  {
+    "id": "path-465",
+    "tag": "path",
+    "className": "cls-347",
+    "x": 284,
+    "y": 1545
+  },
+  {
+    "id": "path-466",
+    "tag": "path",
+    "className": "cls-222",
+    "x": 238,
+    "y": 1591
+  },
+  {
+    "id": "path-467",
+    "tag": "path",
+    "className": "cls-53",
+    "x": 327,
+    "y": 1502
+  },
+  {
+    "id": "path-468",
+    "tag": "path",
+    "className": "cls-53",
+    "x": 293,
+    "y": 1537
+  },
+  {
+    "id": "path-469",
+    "tag": "path",
+    "className": "cls-16",
+    "x": 350,
+    "y": 1430
+  },
+  {
+    "id": "path-470",
+    "tag": "path",
+    "className": "cls-247",
+    "x": 413,
+    "y": 1360
+  },
+  {
+    "id": "path-471",
+    "tag": "path",
+    "className": "cls-385",
+    "x": 367,
+    "y": 1412
+  },
+  {
+    "id": "path-472",
+    "tag": "path",
+    "className": "cls-219",
+    "x": 397,
+    "y": 1378
+  },
+  {
+    "id": "path-473",
+    "tag": "path",
+    "className": "cls-275",
+    "x": 375,
+    "y": 1380
+  },
+  {
+    "id": "path-474",
+    "tag": "path",
+    "className": "cls-401",
+    "x": 342,
+    "y": 1451
+  },
+  {
+    "id": "path-475",
+    "tag": "path",
+    "className": "cls-207",
+    "x": 378,
+    "y": 1427
+  },
+  {
+    "id": "path-476",
+    "tag": "path",
+    "className": "cls-394",
+    "x": 410,
+    "y": 1396
+  },
+  {
+    "id": "path-477",
+    "tag": "path",
+    "className": "cls-240",
+    "x": 404,
+    "y": 1349
+  },
+  {
+    "id": "path-478",
+    "tag": "path",
+    "className": "cls-210",
+    "x": 402,
+    "y": 1380
+  },
+  {
+    "id": "path-479",
+    "tag": "path",
+    "className": "cls-60",
+    "x": 410,
+    "y": 1325
+  },
+  {
+    "id": "path-480",
+    "tag": "path",
+    "className": "cls-361",
+    "x": 382,
+    "y": 1396
+  },
+  {
+    "id": "path-481",
+    "tag": "path",
+    "className": "cls-394",
+    "x": 402,
+    "y": 1357
+  },
+  {
+    "id": "path-482",
+    "tag": "path",
+    "className": "cls-87",
+    "x": 216,
+    "y": 1508
+  },
+  {
+    "id": "path-483",
+    "tag": "path",
+    "className": "cls-332",
+    "x": 166,
+    "y": 1571
+  },
+  {
+    "id": "path-484",
+    "tag": "path",
+    "className": "cls-75",
+    "x": 332,
+    "y": 1396
+  },
+  {
+    "id": "path-485",
+    "tag": "path",
+    "className": "cls-138",
+    "x": 341,
+    "y": 1401
+  },
+  {
+    "id": "path-486",
+    "tag": "path",
+    "className": "cls-164",
+    "x": 313,
+    "y": 1400
+  },
+  {
+    "id": "path-487",
+    "tag": "path",
+    "className": "cls-275",
+    "x": 350,
+    "y": 1361
+  },
+  {
+    "id": "path-488",
+    "tag": "path",
+    "className": "cls-323",
+    "x": 299,
+    "y": 1450
+  },
+  {
+    "id": "path-489",
+    "tag": "path",
+    "className": "cls-319",
+    "x": 309,
+    "y": 1380
+  },
+  {
+    "id": "path-490",
+    "tag": "path",
+    "className": "cls-36",
+    "x": 312,
+    "y": 1379
+  },
+  {
+    "id": "path-491",
+    "tag": "path",
+    "className": "cls-52",
+    "x": 306,
+    "y": 1380
+  },
+  {
+    "id": "path-492",
+    "tag": "path",
+    "className": "cls-165",
+    "x": 572,
+    "y": 1288
+  },
+  {
+    "id": "path-493",
+    "tag": "path",
+    "className": "cls-18",
+    "x": 602,
+    "y": 1283
+  },
+  {
+    "id": "path-494",
+    "tag": "path",
+    "className": "cls-388",
+    "x": 603,
+    "y": 1285
+  },
+  {
+    "id": "path-495",
+    "tag": "path",
+    "className": "cls-349",
+    "x": 476,
+    "y": 1312
+  },
+  {
+    "id": "path-496",
+    "tag": "path",
+    "className": "cls-68",
+    "x": 619,
+    "y": 1240
+  },
+  {
+    "id": "path-497",
+    "tag": "path",
+    "className": "cls-169",
+    "x": 470,
+    "y": 1317
+  },
+  {
+    "id": "path-498",
+    "tag": "path",
+    "className": "cls-306",
+    "x": 483,
+    "y": 1306
+  },
+  {
+    "id": "path-499",
+    "tag": "path",
+    "className": "cls-189",
+    "x": 508,
+    "y": 1278
+  },
+  {
+    "id": "path-500",
+    "tag": "path",
+    "className": "cls-12",
+    "x": 621,
+    "y": 1215
+  },
+  {
+    "id": "path-501",
+    "tag": "path",
+    "className": "cls-274",
+    "x": 633,
+    "y": 1184
+  },
+  {
+    "id": "path-502",
+    "tag": "path",
+    "className": "cls-80",
+    "x": 596,
+    "y": 1195
+  },
+  {
+    "id": "path-503",
+    "tag": "path",
+    "className": "cls-401",
+    "x": 664,
+    "y": 1145
+  },
+  {
+    "id": "path-504",
+    "tag": "path",
+    "className": "cls-302",
+    "x": 617,
+    "y": 1189
+  },
+  {
+    "id": "path-505",
+    "tag": "path",
+    "className": "cls-302",
+    "x": 588,
+    "y": 1206
+  },
+  {
+    "id": "path-506",
+    "tag": "path",
+    "className": "cls-338",
+    "x": 636,
+    "y": 1180
+  },
+  {
+    "id": "path-507",
+    "tag": "path",
+    "className": "cls-32",
+    "x": 631,
+    "y": 1185
+  },
+  {
+    "id": "path-508",
+    "tag": "path",
+    "className": "cls-130",
+    "x": 643,
+    "y": 1176
+  },
+  {
+    "id": "path-509",
+    "tag": "path",
+    "className": "cls-302",
+    "x": 605,
+    "y": 1195
+  },
+  {
+    "id": "path-510",
+    "tag": "path",
+    "className": "cls-401",
+    "x": 653,
+    "y": 1150
+  },
+  {
+    "id": "path-511",
+    "tag": "path",
+    "className": "cls-302",
+    "x": 599,
+    "y": 1199
+  },
+  {
+    "id": "path-512",
+    "tag": "path",
+    "className": "cls-401",
+    "x": 655,
+    "y": 1185
+  },
+  {
+    "id": "path-513",
+    "tag": "path",
+    "className": "cls-282",
+    "x": 544,
+    "y": 1250
+  },
+  {
+    "id": "path-514",
+    "tag": "path",
+    "className": "cls-279",
+    "x": 562,
+    "y": 1229
+  },
+  {
+    "id": "path-515",
+    "tag": "path",
+    "className": "cls-130",
+    "x": 648,
+    "y": 1189
+  },
+  {
+    "id": "path-516",
+    "tag": "path",
+    "className": "cls-254",
+    "x": 649,
+    "y": 1154
+  },
+  {
+    "id": "path-517",
+    "tag": "path",
+    "className": "cls-150",
+    "x": 574,
+    "y": 1227
+  },
+  {
+    "id": "path-518",
+    "tag": "path",
+    "className": "cls-400",
+    "x": 576,
+    "y": 1213
+  },
+  {
+    "id": "path-519",
+    "tag": "path",
+    "className": "cls-350",
+    "x": 553,
+    "y": 1243
+  },
+  {
+    "id": "path-520",
+    "tag": "path",
+    "className": "cls-402",
+    "x": 571,
+    "y": 1217
+  },
+  {
+    "id": "path-521",
+    "tag": "path",
+    "className": "cls-142",
+    "x": 541,
+    "y": 1242
+  },
+  {
+    "id": "path-522",
+    "tag": "path",
+    "className": "cls-296",
+    "x": 560,
+    "y": 1226
+  },
+  {
+    "id": "path-523",
+    "tag": "path",
+    "className": "cls-151",
+    "x": 547,
+    "y": 1236
+  },
+  {
+    "id": "path-524",
+    "tag": "path",
+    "className": "cls-21",
+    "x": 553,
+    "y": 1231
+  },
+  {
+    "id": "path-525",
+    "tag": "path",
+    "className": "cls-204",
+    "x": 582,
+    "y": 1220
+  },
+  {
+    "id": "path-526",
+    "tag": "path",
+    "className": "cls-204",
+    "x": 583,
+    "y": 1213
+  },
+  {
+    "id": "path-527",
+    "tag": "path",
+    "className": "cls-401",
+    "x": 685,
+    "y": 1164
+  },
+  {
+    "id": "path-528",
+    "tag": "path",
+    "className": "cls-386",
+    "x": 691,
+    "y": 1164
+  },
+  {
+    "id": "path-529",
+    "tag": "path",
+    "className": "cls-169",
+    "x": 459,
+    "y": 1316
+  },
+  {
+    "id": "path-530",
+    "tag": "path",
+    "className": "cls-329",
+    "x": 452,
+    "y": 1317
+  },
+  {
+    "id": "path-531",
+    "tag": "path",
+    "className": "cls-10",
+    "x": 445,
+    "y": 1319
+  },
+  {
+    "id": "path-532",
+    "tag": "path",
+    "className": "cls-371",
+    "x": 439,
+    "y": 1324
+  },
+  {
+    "id": "path-533",
+    "tag": "path",
+    "className": "cls-260",
+    "x": 434,
+    "y": 1326
+  },
+  {
+    "id": "path-534",
+    "tag": "path",
+    "className": "cls-394",
+    "x": 445,
+    "y": 1343
+  },
+  {
+    "id": "path-535",
+    "tag": "path",
+    "className": "cls-275",
+    "x": 422,
+    "y": 1342
+  },
+  {
+    "id": "path-536",
+    "tag": "path",
+    "className": "cls-398",
+    "x": 429,
+    "y": 1342
+  },
+  {
+    "id": "path-537",
+    "tag": "path",
+    "className": "cls-61",
+    "x": 24,
+    "y": 1737
+  },
+  {
+    "id": "path-538",
+    "tag": "path",
+    "className": "cls-286",
+    "x": 28,
+    "y": 1760
+  },
+  {
+    "id": "path-539",
+    "tag": "path",
+    "className": "cls-286",
+    "x": 12,
+    "y": 1743
+  }
+]

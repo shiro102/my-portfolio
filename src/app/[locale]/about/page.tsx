@@ -1,5 +1,6 @@
 "use client";
-import Brain from "@/components/2D/components/Brain";
+import LabSvgCharacter from "@/components/2D/components/LabSvgCharacter";
+// import Brain from "@/components/2D/components/Brain";
 import { motion, useInView, useScroll } from "framer-motion";
 import Image from "next/image";
 import { useRef } from "react";
@@ -18,7 +19,7 @@ const About = () => {
   const isExperienceRefInView = useInView(experienceRef, { margin: "-100px" });
 
   return (
-    <div className="bg-gradient-to-b from-white via-blue-100 to-red-50 pt-5 pb-5 dark:from-[#1f1a1a] dark:via-[#171d2d] dark:to-[#040211] dark:text-white">
+    <div className="bg-gradient-to-b from-white via-blue-100 to-red-50 pb-5 dark:from-[#1f1a1a] dark:via-[#171d2d] dark:to-[#040211] dark:text-white">
       {/* CONTAINER */}
       <div className="min-h-screen lg:flex relative" ref={containerRef}>
         {/* TEXT CONTAINER */}
@@ -300,8 +301,9 @@ const About = () => {
           </div>
         </div>
         {/* SVG CONTAINER */}
-        <div className="hidden lg:block w-1/3 sticky top-10 h-screen z-10">
-          <Brain scrollYProgress={scrollYProgress} />
+        <div className="hidden lg:block w-1/3 sticky top-[70px] z-10 h-[calc(100dvh-70px)]">
+          <LabSvgCharacter scrollYProgress={scrollYProgress} />
+          {/* <Brain scrollYProgress={scrollYProgress} /> */}
         </div>
       </div>
     </div>

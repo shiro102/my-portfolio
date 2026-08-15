@@ -1,0 +1,434 @@
+{
+  "viewBox": "-23 -42 1085 841",
+  "groups": {
+    "main-background": [
+      "path-0"
+    ],
+    "rs-background": [
+      "path-1"
+    ],
+    "rs-cog50": [
+      "path-2"
+    ],
+    "rs-cog49": [
+      "path-3"
+    ],
+    "rs-cog48": [
+      "path-4"
+    ],
+    "rs-cog47": [
+      "path-5"
+    ],
+    "rs-cog46": [
+      "path-6"
+    ],
+    "rs-cog45": [
+      "path-7",
+      "path-8"
+    ],
+    "rs-cog44": [
+      "path-9"
+    ],
+    "rs-connector6": [
+      "path-10"
+    ],
+    "rs-connector5": [
+      "path-11"
+    ],
+    "rs-cog43": [
+      "path-12"
+    ],
+    "rs-cog42": [
+      "path-13"
+    ],
+    "rs-plate2": [
+      "path-14"
+    ],
+    "rs-pin4": [
+      "path-15",
+      "path-16"
+    ],
+    "rs-cog41": [
+      "path-17"
+    ],
+    "rs-cog40": [
+      "path-18"
+    ],
+    "rs-cog39": [
+      "path-19"
+    ],
+    "rs-cog38": [
+      "path-20",
+      "path-21"
+    ],
+    "rs-cog37": [
+      "path-22",
+      "path-23"
+    ],
+    "rs-cog36": [
+      "path-24",
+      "path-25"
+    ],
+    "rs-crank7": [
+      "path-26"
+    ],
+    "rs-crank6": [
+      "path-27"
+    ],
+    "rs-pin3": [
+      "path-28",
+      "path-29",
+      "path-30",
+      "path-31",
+      "path-32",
+      "path-33",
+      "path-34",
+      "path-35",
+      "path-36",
+      "path-37"
+    ],
+    "rs-cog35": [
+      "path-38",
+      "path-39"
+    ],
+    "rs-cog34": [
+      "path-40",
+      "path-41"
+    ],
+    "rs-cog33": [
+      "path-42"
+    ],
+    "rs-cog32": [
+      "path-43",
+      "path-44"
+    ],
+    "rs-cog31": [
+      "path-45"
+    ],
+    "rs-cog30": [
+      "path-46"
+    ],
+    "rs-cog29": [
+      "path-47"
+    ],
+    "rs-cog28": [
+      "path-48",
+      "path-49"
+    ],
+    "rs-cog27": [
+      "path-50"
+    ],
+    "rs-cog27-group-3": [
+      "path-51"
+    ],
+    "rs-cog27-group-30": [
+      "path-52"
+    ],
+    "rs-cog27-group-36": [
+      "path-53"
+    ],
+    "rs-cog27-group-44": [
+      "path-54"
+    ],
+    "rs-cog27-rotates-backward1": [
+      "path-55"
+    ],
+    "rs-connector4": [
+      "path-56"
+    ],
+    "rs-cog26": [
+      "path-57",
+      "path-58",
+      "path-59"
+    ],
+    "rs-cog25": [
+      "path-60"
+    ],
+    "rs-cog24": [
+      "path-61"
+    ],
+    "rs-cog23": [
+      "path-62",
+      "path-63"
+    ],
+    "rs-cog22": [
+      "path-64",
+      "path-65",
+      "path-66"
+    ],
+    "rs-cog21": [
+      "path-67"
+    ],
+    "rs-cog20": [
+      "path-68",
+      "path-69"
+    ],
+    "rs-cog19": [
+      "path-70",
+      "path-71"
+    ],
+    "rs-cog18": [
+      "path-72",
+      "path-73"
+    ],
+    "rs-cog17": [
+      "path-74",
+      "path-75"
+    ],
+    "rs-cog16": [
+      "path-76",
+      "path-77"
+    ],
+    "rs-cog15": [
+      "path-78"
+    ],
+    "rs-cog14": [
+      "path-79",
+      "path-80"
+    ],
+    "rs-cog13": [
+      "path-81"
+    ],
+    "rs-cog12": [
+      "path-82"
+    ],
+    "rs-crank5": [
+      "path-83"
+    ],
+    "rs-cog11": [
+      "path-84",
+      "path-85"
+    ],
+    "rs-cog10": [
+      "path-86"
+    ],
+    "rs-connector3": [
+      "path-87"
+    ],
+    "rs-cog9": [
+      "path-88"
+    ],
+    "rs-connector2": [
+      "path-89"
+    ],
+    "rs-cog8": [
+      "path-90"
+    ],
+    "rs-connector1-group-3": [
+      "path-91"
+    ],
+    "rs-connector1-group-30": [
+      "path-92"
+    ],
+    "rs-connector1-group-36": [
+      "path-93"
+    ],
+    "rs-connector1-group-44": [
+      "path-94"
+    ],
+    "rs-connector1": [
+      "path-95",
+      "path-106"
+    ],
+    "rs-connector1-group-4": [
+      "path-96",
+      "path-97"
+    ],
+    "rs-connector1-group-2": [
+      "path-98",
+      "path-99"
+    ],
+    "rs-connector1-group-119": [
+      "path-100"
+    ],
+    "rs-connector1-group-122": [
+      "path-101"
+    ],
+    "rs-connector1-group-125": [
+      "path-102"
+    ],
+    "rs-connector1-group-128": [
+      "path-103"
+    ],
+    "rs-connector1-rotates-forward1": [
+      "path-104",
+      "path-105"
+    ],
+    "rs-cog7": [
+      "path-107"
+    ],
+    "rs-plate1": [
+      "path-108"
+    ],
+    "rs-pin2": [
+      "path-109",
+      "path-110",
+      "path-111"
+    ],
+    "rs-cog6": [
+      "path-112"
+    ],
+    "rs-pin1": [
+      "path-113"
+    ],
+    "rs-crank4": [
+      "path-114"
+    ],
+    "rs-cog5": [
+      "path-115"
+    ],
+    "rs-cog4": [
+      "path-116"
+    ],
+    "rs-cog3": [
+      "path-117"
+    ],
+    "rs-cog2": [
+      "path-118"
+    ],
+    "rs-cog1": [
+      "path-119",
+      "path-120"
+    ],
+    "rs-crank3": [
+      "path-121"
+    ],
+    "rs-crank2": [
+      "path-122"
+    ],
+    "rs-crank1": [
+      "path-123"
+    ],
+    "ls-background1": [
+      "path-124"
+    ],
+    "ls-cog26": [
+      "path-125"
+    ],
+    "ls-cog25": [
+      "path-126"
+    ],
+    "ls-cog24": [
+      "path-127",
+      "path-128"
+    ],
+    "ls-cog23": [
+      "path-129"
+    ],
+    "ls-cog22": [
+      "path-130",
+      "path-131"
+    ],
+    "ls-cog21": [
+      "path-132"
+    ],
+    "ls-cog20": [
+      "path-133",
+      "path-134"
+    ],
+    "ls-cog19": [
+      "path-135"
+    ],
+    "ls-cog18": [
+      "path-136"
+    ],
+    "ls-cog17": [
+      "path-137"
+    ],
+    "ls-cog16": [
+      "path-138"
+    ],
+    "ls-connector2": [
+      "path-139"
+    ],
+    "ls-cog15": [
+      "path-140"
+    ],
+    "ls-crank3": [
+      "path-141"
+    ],
+    "ls-crank2": [
+      "path-142"
+    ],
+    "ls-cog14": [
+      "path-143"
+    ],
+    "ls-cog13": [
+      "path-144",
+      "path-145",
+      "path-146",
+      "path-147"
+    ],
+    "ls-cog12": [
+      "path-148"
+    ],
+    "ls-cog11": [
+      "path-149"
+    ],
+    "ls-cog10": [
+      "path-150",
+      "path-151",
+      "path-152"
+    ],
+    "ls-pin6": [
+      "path-153",
+      "path-154"
+    ],
+    "ls-plate1": [
+      "path-155"
+    ],
+    "ls-pin5": [
+      "path-156"
+    ],
+    "ls-pin4": [
+      "path-157"
+    ],
+    "ls-cog9": [
+      "path-158"
+    ],
+    "ls-cog8": [
+      "path-159"
+    ],
+    "ls-cog7": [
+      "path-160"
+    ],
+    "ls-cog6": [
+      "path-161"
+    ],
+    "ls-cog5": [
+      "path-162",
+      "path-163"
+    ],
+    "ls-cog4": [
+      "path-164",
+      "path-165"
+    ],
+    "ls-pin3": [
+      "path-166"
+    ],
+    "ls-pin2": [
+      "path-167"
+    ],
+    "ls-connector1": [
+      "path-168"
+    ],
+    "ls-pin1": [
+      "path-169",
+      "path-170"
+    ],
+    "ls-cog3": [
+      "path-171",
+      "path-172"
+    ],
+    "ls-cog2": [
+      "path-173",
+      "path-174"
+    ],
+    "ls-cog1": [
+      "path-175"
+    ],
+    "ls-crank1": [
+      "path-176"
+    ]
+  }
+}
